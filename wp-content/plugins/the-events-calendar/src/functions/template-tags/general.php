@@ -59,17 +59,6 @@ if ( class_exists( 'Tribe__Events__Main' ) ) {
 	}
 
 	/**
-	 * Get Event Label Singular lowercase
-	 *
-	 * Returns the singular version of the Event Label
-	 *
-	 * @return string
-	 */
-	function tribe_get_event_label_singular_lowercase() {
-		return apply_filters( 'tribe_event_label_singular_lowercase', esc_html__( 'event', 'the-events-calendar' ) );
-	}
-
-	/**
 	 * Get Event Label Plural
 	 *
 	 * Returns the plural version of the Event Label
@@ -78,17 +67,6 @@ if ( class_exists( 'Tribe__Events__Main' ) ) {
 	 */
 	function tribe_get_event_label_plural() {
 		return apply_filters( 'tribe_event_label_plural', esc_html__( 'Events', 'the-events-calendar' ) );
-	}
-
-	/**
-	 * Get Event Label Plural lowercase
-	 *
-	 * Returns the plural version of the Event Label
-	 *
-	 * @return string
-	 */
-	function tribe_get_event_label_plural_lowercase() {
-		return apply_filters( 'tribe_event_label_plural_lowercase', esc_html__( 'events', 'the-events-calendar' ) );
 	}
 
 	/**

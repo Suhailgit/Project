@@ -10,38 +10,6 @@ msgstr ""
 "X-Generator: GlotPress/1.0-alpha-1100\n"
 "Project-Id-Version: Tribe Common\n"
 
-#: src/admin-views/tribe-options-help.php:37
-msgid "Recent Template Changes"
-msgstr ""
-
-#: src/Tribe/Support/Template_Checker_Report.php:78
-msgid "No notable changes detected"
-msgstr ""
-
-#: src/Tribe/Support/Template_Checker_Report.php:82
-msgid "Templates introduced or updated with this release (%s):"
-msgstr ""
-
-#: src/Tribe/Support/Template_Checker_Report.php:92
-msgid "Existing theme overrides that may need revision:"
-msgstr ""
-
-#: src/Tribe/Support/Template_Checker_Report.php:96
-msgid "version data missing from override"
-msgstr ""
-
-#: src/Tribe/Support/Template_Checker_Report.php:97
-msgid "based on %s version"
-msgstr ""
-
-#: src/Tribe/Support/Template_Checker_Report.php:113
-msgid "No notable template changes detected."
-msgstr ""
-
-#: src/Tribe/Support/Template_Checker_Report.php:115
-msgid "Information about recent template changes and potentially impacted template overrides is provided below."
-msgstr ""
-
 #: src/admin-views/tribe-options-help.php:35
 msgid "The details of your calendar plugin and settings is often needed for you or our staff to help troubleshoot an issue. We may ask you to share this information if you ask for support. If you post in one of our premium forums, please copy and paste this information into the System Information field and it will help us help you faster!"
 msgstr ""
@@ -130,47 +98,47 @@ msgstr ""
 msgid "Community Tickets"
 msgstr ""
 
-#: src/Tribe/Admin/Help_Page.php:788
+#: src/Tribe/Admin/Help_Page.php:787
 msgid "Activate %s"
 msgstr ""
 
-#: src/Tribe/Admin/Help_Page.php:788
+#: src/Tribe/Admin/Help_Page.php:787
 msgid "Activate Plugin"
 msgstr ""
 
-#: src/Tribe/Admin/Help_Page.php:796
+#: src/Tribe/Admin/Help_Page.php:795
 msgid "Upgrade Plugin"
 msgstr ""
 
-#: src/Tribe/Admin/Help_Page.php:812
+#: src/Tribe/Admin/Help_Page.php:811
 msgid "Install %s"
 msgstr ""
 
-#: src/Tribe/Admin/Help_Page.php:812
+#: src/Tribe/Admin/Help_Page.php:811
 msgid "Install Plugin"
 msgstr ""
 
-#: src/Tribe/Admin/Help_Page.php:835
+#: src/Tribe/Admin/Help_Page.php:834
 msgid "Active Users:"
 msgstr ""
 
-#: src/Tribe/Admin/Help_Page.php:838
+#: src/Tribe/Admin/Help_Page.php:837
 msgid "Rating:"
 msgstr ""
 
-#: src/Tribe/Admin/Help_Page.php:863
+#: src/Tribe/Admin/Help_Page.php:862
 msgid "Plugin Active"
 msgstr ""
 
-#: src/Tribe/Admin/Help_Page.php:865
+#: src/Tribe/Admin/Help_Page.php:864
 msgid "Plugin Inactive"
 msgstr ""
 
-#: src/Tribe/Admin/Help_Page.php:870
+#: src/Tribe/Admin/Help_Page.php:869
 msgid "Visit the Add-on Page"
 msgstr ""
 
-#: src/Tribe/Admin/Notice/Archive_Slug_Conflict.php:94
+#: src/Tribe/Admin/Notice/Archive_Slug_Conflict.php:68
 msgid "<a href=\"%s\">edit Events settings</a>."
 msgstr ""
 
@@ -242,15 +210,15 @@ msgstr "Modern Tribe, Inc."
 msgid "http://m.tri.be/1x"
 msgstr ""
 
-#: src/Tribe/Admin/Notice/Archive_Slug_Conflict.php:88
+#: src/Tribe/Admin/Notice/Archive_Slug_Conflict.php:62
 msgid "<a href=\"%s\">Edit the page slug</a>"
 msgstr ""
 
-#: src/Tribe/Admin/Notice/Archive_Slug_Conflict.php:89
+#: src/Tribe/Admin/Notice/Archive_Slug_Conflict.php:63
 msgid "Ask the site administrator to edit the page slug"
 msgstr ""
 
-#: src/Tribe/Admin/Notice/Archive_Slug_Conflict.php:95
+#: src/Tribe/Admin/Notice/Archive_Slug_Conflict.php:69
 msgid " ask the site administrator set a different Events URL slug."
 msgstr ""
 
@@ -266,7 +234,7 @@ msgstr ""
 msgid "unknown date"
 msgstr "Neznani datum"
 
-#: src/Tribe/Support.php:144
+#: src/Tribe/Support.php:129
 msgid "Rewrite rules were purged on load of this help page. Chances are there is a rewrite rule flush occurring in a plugin or theme!"
 msgstr ""
 
@@ -440,7 +408,7 @@ msgstr "n/a"
 msgid "You need to upgrade!"
 msgstr "Čaka vas posodobitev!"
 
-#: src/Tribe/Admin/Help_Page.php:402 src/Tribe/Admin/Help_Page.php:798
+#: src/Tribe/Admin/Help_Page.php:402 src/Tribe/Admin/Help_Page.php:797
 msgid "You are up to date!"
 msgstr "Imate trenutno različico!"
 
@@ -520,7 +488,7 @@ msgstr "Idaho"
 msgid "Illinois"
 msgstr "Illinois"
 
-#: src/admin-views/tribe-options-help.php:63
+#: src/admin-views/tribe-options-help.php:60
 msgid "More..."
 msgstr "Več ..."
 
@@ -536,7 +504,7 @@ msgstr "Iowa"
 msgid "Kansas"
 msgstr "Kansas"
 
-#: src/Tribe/Admin/Help_Page.php:829
+#: src/Tribe/Admin/Help_Page.php:828
 msgid "Latest Version:"
 msgstr "Zadnja različica:"
 
@@ -552,7 +520,7 @@ msgstr "Louisiana"
 msgid "Maine"
 msgstr "Maine"
 
-#: src/Tribe/Admin/Help_Page.php:832
+#: src/Tribe/Admin/Help_Page.php:831
 msgid "Requires:"
 msgstr "Zahteva:"
 
@@ -560,7 +528,7 @@ msgstr "Zahteva:"
 msgid "Maryland"
 msgstr "Maryland"
 
-#: src/Tribe/Admin/Help_Page.php:833
+#: src/Tribe/Admin/Help_Page.php:832
 msgid "WordPress "
 msgstr "WordPress"
 
@@ -584,7 +552,7 @@ msgstr "Mississippi"
 msgid "Missouri"
 msgstr "Missouri"
 
-#: src/Tribe/Admin/Help_Page.php:857
+#: src/Tribe/Admin/Help_Page.php:856
 msgid "Premium Add-Ons"
 msgstr "Premium dodatki"
 
@@ -596,7 +564,7 @@ msgstr "Montana"
 msgid "Nebraska"
 msgstr "Nebraska"
 
-#: src/admin-views/tribe-options-help.php:57
+#: src/admin-views/tribe-options-help.php:54
 msgid "News and Tutorials"
 msgstr "Novice in vodiči"
 
@@ -1507,7 +1475,7 @@ msgstr "Sistemske informacije"
 msgid "Somalia"
 msgstr "Somalija"
 
-#: src/Tribe/Support.php:137
+#: src/Tribe/Support.php:122
 msgid "Unknown or not set"
 msgstr "Neznano ali nedoločeno"
 

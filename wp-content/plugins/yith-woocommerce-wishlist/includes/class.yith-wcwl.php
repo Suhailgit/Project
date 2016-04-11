@@ -181,7 +181,7 @@ if ( ! class_exists( 'YITH_WCWL' ) ) {
                 }
     		}
             
-            return apply_filters( 'yith_wcwl_is_product_in_wishlist', $exists, $product_id, $wishlist_id );
+            return $exists;
         }
         
         /**
@@ -625,8 +625,6 @@ if ( ! class_exists( 'YITH_WCWL' ) ) {
                 if( ! empty( $limit ) ){
                     $sql .= " LIMIT " . $offset . ", " . $limit;
                 }
-
-                $sql .= " GROUP BY i.prod_id, l.ID";
 
                 $wishlist = $wpdb->get_results( $wpdb->prepare( $sql, $sql_args ), ARRAY_A );
             }

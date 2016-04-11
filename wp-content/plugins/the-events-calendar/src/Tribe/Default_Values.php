@@ -15,7 +15,7 @@ class Tribe__Events__Default_Values {
 	}
 
 	public function venue_id() {
-		return null;
+		return 0;
 	}
 
 	public function organizer() {
@@ -47,7 +47,7 @@ class Tribe__Events__Default_Values {
 	}
 
 	public function country() {
-		return array( '', '' );
+		return '';
 	}
 
 	public function phone() {

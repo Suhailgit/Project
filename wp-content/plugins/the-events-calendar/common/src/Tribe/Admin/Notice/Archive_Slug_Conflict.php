@@ -44,9 +44,9 @@ class Tribe__Admin__Notice__Archive_Slug_Conflict {
 			return;
 		}
 		$this->page = $page;
-		$dismissed_notices = get_user_meta( get_current_user_id(), 'tribe-dismiss-notice' );
+		$dimissed_notices = get_user_meta( get_current_user_id(), 'tribe-dismiss-notice' );
 
-		if ( is_array( $dismissed_notices ) && in_array( 'archive-slug-conflict', $dismissed_notices ) ) {
+		if ( in_array( 'archive-slug-conflict', $dimissed_notices ) ) {
 			return;
 		}
 		add_action( 'admin_notices', array( $this, 'notice' ) );

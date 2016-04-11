@@ -809,7 +809,7 @@ if ( ! function_exists ( 'yit_load_js_file' ) ) {
      */
     function yit_load_js_file ( $filename ) {
 
-        if ( ! ( ( defined ( 'WP_DEBUG' ) && WP_DEBUG ) || ( defined ( 'SCRIPT_DEBUG' ) && SCRIPT_DEBUG ) || isset( $_GET['yith_script_debug'] ) ) ) {
+        if ( ! ( ( defined ( 'WP_DEBUG' ) && WP_DEBUG ) || ( defined ( 'SCRIPT_DEBUG' ) && SCRIPT_DEBUG ) ) ) {
             $filename = str_replace ( '.js', '.min.js', $filename );
         }
 

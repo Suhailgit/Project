@@ -15,8 +15,7 @@ return array(
 	'premium' => array(
 		'landing' => array(
 			'type' => 'custom_tab',
-			'action' => 'yith_wcwl_premium_tab',
-			'hide_sidebar' => true
+			'action' => 'yith_wcwl_premium_tab'
 		)
 	)
 );

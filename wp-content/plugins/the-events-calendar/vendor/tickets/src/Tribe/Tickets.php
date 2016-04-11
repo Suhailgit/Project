@@ -879,10 +879,7 @@ if ( ! class_exists( 'Tribe__Tickets__Tickets' ) ) {
 					$data[ 'tickets' ][ $ticket->ID ][ 'cap' ] = $ticket->global_stock_cap();
 				}
 
-				if (
-					Tribe__Tickets__Global_Stock::OWN_STOCK_MODE === $stock_mode
-					&& $ticket->managing_stock()
-				) {
+				if ( Tribe__Tickets__Global_Stock::OWN_STOCK_MODE === $stock_mode ) {
 					$data[ 'tickets' ][ $ticket->ID ][ 'stock' ] = $ticket->stock();
 				}
 

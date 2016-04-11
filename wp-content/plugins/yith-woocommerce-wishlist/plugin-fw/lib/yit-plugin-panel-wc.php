@@ -71,11 +71,6 @@ if ( ! class_exists( 'YIT_Plugin_Panel_WooCommerce' ) ) {
                 if( isset( $this->settings['create_menu_page'] ) && $this->settings[ 'create_menu_page'] ){
                     $this->add_menu_page();
                 }
-
-                if ( !empty( $this->settings[ 'links' ] ) ) {
-                    $this->links = $this->settings[ 'links' ];
-                }
-
                 add_action( 'admin_init', array( $this, 'set_default_options') );
                 add_action( 'admin_menu', array( $this, 'add_setting_page' ) );
                 add_action( 'admin_menu', array( $this, 'add_premium_version_upgrade_to_menu' ), 100 );
@@ -92,9 +87,6 @@ if ( ! class_exists( 'YIT_Plugin_Panel_WooCommerce' ) ) {
                 /* WooCommerce 2.4 Support */
                 add_filter( 'admin_body_class', array( $this, 'admin_body_class' ) );
             }
-
-            /* add YIT Plugin sidebar */
-            $this->sidebar = YIT_Plugin_Panel_Sidebar::instance( $this );
         }
 
 
@@ -243,16 +235,14 @@ if ( ! class_exists( 'YIT_Plugin_Panel_WooCommerce' ) ) {
          * @since    1.0
          * @author   Andrea Grillo      <andrea.grillo@yithemes.com>
          * @author   Antonio La Rocca   <antonio.larocca@yithemes.com>
-         * @author   Leanza Francesco   <leanzafrancesco@gmail.com>
          */
         public function print_panel_content() {
             $yit_options       = $this->get_main_array_options();
             $current_tab       = $this->get_current_tab();
             $custom_tab_action = $this->is_custom_tab( $yit_options, $current_tab );
-            $hide_sidebar      = $this->hide_sidebar( $yit_options, $current_tab );
 
             if ( $custom_tab_action ) {
-                $this->print_custom_tab( $custom_tab_action, $hide_sidebar );
+                $this->print_custom_tab( $custom_tab_action );
                 return;
             }
             else {
@@ -302,7 +292,7 @@ if ( ! class_exists( 'YIT_Plugin_Panel_WooCommerce' ) ) {
                         );
                     }
                 }
-
+                
                 woocommerce_update_options( $yit_options[ $current_tab ] );
 
                 do_action( 'yit_panel_wc_after_update' );
@@ -329,7 +319,7 @@ if ( ! class_exists( 'YIT_Plugin_Panel_WooCommerce' ) ) {
          * @author   Andrea Grillo      <andrea.grillo@yithemes.com>
          * @author   Antonio La Rocca   <antonio.larocca@yithemes.com>
          */
-        public function admin_enqueue_scripts() {
+        public function admin_enqueue_scripts() { 
             global $woocommerce, $pagenow;
 
             wp_enqueue_style( 'raleway-font', '//fonts.googleapis.com/css?family=Raleway:400,500,600,700,800,100,200,300,900' );

@@ -206,14 +206,6 @@ abstract class Tribe__Events__Importer__File_Importer {
 	 * @return Tribe__Events__Importer__Featured_Image_Uploader
 	 */
 	protected function featured_image_uploader( $featured_image ) {
-		// Remove any leading/trailing whitespace (if the string is a URL, extra whitespace
-		// could result in URL validation fail)
-		if ( is_string( $featured_image ) ) {
-			$featured_image = trim( $featured_image );
-		}
-
-		return empty( $this->featured_image_uploader )
-			? new Tribe__Events__Importer__Featured_Image_Uploader( $featured_image )
-			: $this->featured_image_uploader;
+		return empty( $this->featured_image_uploader ) ? new Tribe__Events__Importer__Featured_Image_Uploader( $featured_image ) : $this->featured_image_uploader;
 	}
 }

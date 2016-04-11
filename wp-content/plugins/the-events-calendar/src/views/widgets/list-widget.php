@@ -15,7 +15,6 @@
  * your functions.php. In order to modify or extend a single filter, please see our
  * readme on templates hooks and filters (TO-DO)
  *
- * @version 4.1.1
  * @return string
  *
  * @package TribeEventsCalendar
@@ -26,7 +25,6 @@ if ( ! defined( 'ABSPATH' ) ) {
 }
 
 $events_label_plural = tribe_get_event_label_plural();
-$events_label_plural_lowercase = tribe_get_event_label_plural_lowercase();
 
 $posts = tribe_get_list_widget_events();
 
@@ -70,6 +68,6 @@ if ( $posts ) : ?>
 <?php
 // No events were found.
 else : ?>
-	<p><?php printf( esc_html__( 'There are no upcoming %s at this time.', 'the-events-calendar' ), $events_label_plural_lowercase ); ?></p>
+	<p><?php printf( esc_html__( 'There are no upcoming %s at this time.', 'the-events-calendar' ), strtolower( $events_label_plural ) ); ?></p>
 <?php
 endif;
