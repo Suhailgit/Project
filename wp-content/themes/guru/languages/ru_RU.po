@@ -1,0 +1,3952 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Guru WordPress Theme\n"
+"POT-Creation-Date: 2014-10-25 15:37+0530\n"
+"PO-Revision-Date: 2014-10-25 15:38+0530\n"
+"Last-Translator: DesignThemes <ram@iamdesigning.com>\n"
+"Language-Team: designthemes <ram@iamdesigning.com>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: E:\\wamp\\www\\dt-guru\\wp-content\\themes\\guru\n"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/404.php:11
+msgid "Lost"
+msgstr "Забыли"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/404.php:25
+msgid "404!"
+msgstr "404!"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/404.php:26
+msgid "Page not Found"
+msgstr "Страница не найдена"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/archive.php:11
+msgid "Category Archives of : "
+msgstr "Категория Архивы:"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/archive.php:12
+msgid "Daily Archives of : "
+msgstr "Ежедневно Архивы:"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/archive.php:13
+msgid "Monthly Archives of : "
+msgstr "Архив за месяц из:"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/archive.php:14
+msgid "Yearly Archives of : "
+msgstr "Ежегодные Архив:"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/archive.php:15
+msgid "Archive by Author : "
+msgstr "Архив по автору:"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/archive.php:16
+msgid "Tag Archives of : "
+msgstr "Архивы из:"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/archive.php:17
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/woocommerce/index.php:135
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/sensei/index.php:32
+msgid "Archive of : "
+msgstr "Архив:"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/comments.php:28
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/comments.php:35
+msgid "No Comments"
+msgstr "Комментариев нет"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/comments.php:28
+msgid "Comment (1)"
+msgstr "Комментарий (1)"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/comments.php:28
+msgid "Comments (%)"
+msgstr "Комментарии (%)"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/comments.php:48
+msgid "Comment"
+msgstr "Комментарий"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/comments.php:50
+msgid "Reply"
+msgstr "Ответить"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/functions.php:21
+msgid "The quick brown fox jumps over the lazy dog"
+msgstr "Быстрая коричневая лиса прыгает через ленивую собаку"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/header-type2.php:46
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/header-type3.php:46
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/header.php:46
+msgid "Login / Register Now"
+msgstr "Войти / Зарегистрироваться сейчас"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/header-type2.php:46
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/header-type3.php:46
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/header.php:46
+msgid "Login&nbsp;&nbsp;/&nbsp;&nbsp;Register Now"
+msgstr "Войти&nbsp;&nbsp;/&nbsp;&nbsp;Зарегистрируйся"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/header-type2.php:49
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/header-type3.php:49
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/header.php:49
+msgid "Welcome"
+msgstr "Добро пожаловать"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/header-type2.php:50
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/header-type3.php:50
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/header.php:50
+msgid "Logout"
+msgstr "Выход"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/header-type2.php:78
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/header-type3.php:78
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/header.php:81
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/header.php:107
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_public.php:884
+msgid "Home"
+msgstr "Главная"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/page.php:33
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/single.php:105
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/tpl-blog.php:31
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/tpl-events.php:46
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/tpl-feature.php:69
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/tpl-fullwidth.php:35
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/tpl-gallery.php:31
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/tpl-header2.php:35
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/tpl-header3.php:35
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/tpl-home.php:23
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/tpl-onepage.php:19
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/tpl-onepage.php:56
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/page.php:34
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/single.php:106
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/tpl-blog.php:35
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/tpl-events.php:47
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/tpl-feature.php:70
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/tpl-fullwidth.php:41
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/tpl-gallery.php:35
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/tpl-header2.php:41
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/tpl-header3.php:41
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/tpl-home.php:24
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_public.php:832
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_public.php:860
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/general.php:341
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/general.php:366
+msgid "Edit"
+msgstr "Редактировать"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/search.php:11
+#, php-format
+msgid "Search Results for : %s"
+msgstr "Результаты поиска для:%s"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/searchform.php:3
+msgid "Enter Keyword"
+msgstr "Введите ключевое слово"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/single.php:51
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_shortcodes.php:227
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/woocommerce/index.php:282
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/woocommerce/index.php:440
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/includes/archive-post-layout.php:63
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/includes/blog-post-layout.php:68
+msgid "Featured"
+msgstr "Рекомендуемые"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/single.php:135
+msgid "About the Author"
+msgstr "Об авторе"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/tpl-events.php:28
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_public.php:1038
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/utils.php:147
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/events.php:15
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/settings.php:48
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/settings.php:65
+msgid "Events"
+msgstr "События"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/tpl-events.php:31
+msgid "Event Details"
+msgstr "Детали события"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/admin_utils.php:214
+msgid "Select Post"
+msgstr "Выберите сообщение"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/admin_utils.php:250
+msgid "Select Product"
+msgstr "Выбор продукта"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/admin_utils.php:272
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/admin_utils.php:504
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/admin_utils.php:626
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/admin_utils.php:640
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:116
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/page_metabox.php:34
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:533
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:615
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/seo.php:110
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_widgets/gallery_widget.php:31
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_widgets/recent_posts.php:31
+msgid "Select"
+msgstr "Выберите"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/admin_utils.php:303
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_widgets/recent_pages.php:29
+msgid "Select Page"
+msgstr "Выберите страницу"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/admin_utils.php:334
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/admin_utils.php:356
+msgid "Select Category"
+msgstr "Выбор категории"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/admin_utils.php:602
+msgid "Pattern"
+msgstr "Pattern"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/admin_utils.php:603
+msgid "Custom Background"
+msgstr "Пользовательский фон"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/admin_utils.php:604
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:102
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:111
+msgid "None"
+msgstr "Ни один"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/admin_utils.php:607
+msgid "Background Type"
+msgstr "Фон Тип"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/class-tgm-plugin-activation.php:164
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_plugins.php:162
+msgid "Install Required Plugins"
+msgstr "Установите требуемые подключаемые модули"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/class-tgm-plugin-activation.php:165
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_plugins.php:163
+msgid "Install Plugins"
+msgstr "Устанавливать плагины"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/class-tgm-plugin-activation.php:166
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_plugins.php:164
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Установка плагина:%s"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr "Что пошло не так."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/class-tgm-plugin-activation.php:178
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/class-tgm-plugin-activation.php:490
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_plugins.php:176
+msgid "Return to Required Plugins Installer"
+msgstr "Вернуться в требуемые подключаемые модули Installer"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/class-tgm-plugin-activation.php:179
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/class-tgm-plugin-activation.php:1846
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_plugins.php:177
+msgid "Plugin activated successfully."
+msgstr "Плагин успешно активирована."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/class-tgm-plugin-activation.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Установлены все плагины и активируется успешно.%1$s"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/class-tgm-plugin-activation.php:517
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/class-tgm-plugin-activation.php:2058
+msgid "Return to the Dashboard"
+msgstr "Вернуться на панели"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/class-tgm-plugin-activation.php:545
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr "Этот плагин был успешно активирован: %s."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/class-tgm-plugin-activation.php:704
+msgid "Dismiss this notice"
+msgstr "Закрыть это уведомление"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/class-tgm-plugin-activation.php:1091
+msgid "External Link"
+msgstr "Внешняя ссылка"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/class-tgm-plugin-activation.php:1096
+msgid "Private Repository"
+msgstr "Личное Хранилище"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/class-tgm-plugin-activation.php:1099
+msgid "Pre-Packaged"
+msgstr "Предварительно упакованные"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/class-tgm-plugin-activation.php:1103
+msgid "WordPress Repository"
+msgstr "WordPress Repository"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/class-tgm-plugin-activation.php:1106
+msgid "Required"
+msgstr "Требуется"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/class-tgm-plugin-activation.php:1106
+msgid "Recommended"
+msgstr "Рекомендуем"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/class-tgm-plugin-activation.php:1109
+msgid "Not Installed"
+msgstr "Не установлен"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/class-tgm-plugin-activation.php:1111
+msgid "Installed But Not Activated"
+msgstr "Установленная Но не активирован"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/class-tgm-plugin-activation.php:1281
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+"Плагины не установить или активировать.<a href=\"%1$s\" title=\"Return to "
+"the Dashboard\">Вернуться на панели</a>"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/class-tgm-plugin-activation.php:1297
+msgid "Plugin"
+msgstr "Плагин"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/class-tgm-plugin-activation.php:1298
+msgid "Source"
+msgstr "Источник"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/class-tgm-plugin-activation.php:1299
+msgid "Type"
+msgstr "Тип"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/class-tgm-plugin-activation.php:1300
+msgid "Status"
+msgstr "Статус"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/class-tgm-plugin-activation.php:1318
+msgid "Install"
+msgstr "Установите"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/class-tgm-plugin-activation.php:1319
+msgid "Activate"
+msgstr "Активируйте"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/class-tgm-plugin-activation.php:1829
+msgid "Install package not available."
+msgstr "Установите пакет не доступный."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/class-tgm-plugin-activation.php:1830
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr "Скачивание установить пакет из <span class=\"code\">%s</span>&#8230;"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/class-tgm-plugin-activation.php:1831
+msgid "Unpacking the package&#8230;"
+msgstr "Распаковка пакета&#8230;"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/class-tgm-plugin-activation.php:1832
+msgid "Installing the plugin&#8230;"
+msgstr "Установка плагина&#8230;"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/class-tgm-plugin-activation.php:1833
+msgid "Plugin install failed."
+msgstr "Плагин удалось установить."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/class-tgm-plugin-activation.php:1834
+msgid "Plugin installed successfully."
+msgstr "Плагин успешно установлен."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/class-tgm-plugin-activation.php:1845
+msgid "Plugin activation failed."
+msgstr "Плагин активации не удалось."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/class-tgm-plugin-activation.php:1955
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Процесс установки и активации начинает. Этот процесс может занять некоторое "
+"время на некоторых хостов, поэтому, пожалуйста, будьте терпеливы."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/class-tgm-plugin-activation.php:1956
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s установлен и активирован успешно."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/class-tgm-plugin-activation.php:1956
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/class-tgm-plugin-activation.php:1965
+msgid "Show Details"
+msgstr "Детали"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/class-tgm-plugin-activation.php:1956
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/class-tgm-plugin-activation.php:1965
+msgid "Hide Details"
+msgstr "Скрыть детали"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/class-tgm-plugin-activation.php:1957
+msgid "All installations and activations have been completed."
+msgstr "Все установок и активаций были завершены."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка и активация плагина %1$s (%2$d/%3$d)"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/class-tgm-plugin-activation.php:1962
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Процесс установки начинается. Этот процесс может занять некоторое время на "
+"некоторых хостов, поэтому, пожалуйста, будьте терпеливы."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/class-tgm-plugin-activation.php:1963
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Произошла ошибка при установке %1$s: <strong>%2$s</strong>."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/class-tgm-plugin-activation.php:1964
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "Установка %1$s не удалось"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/class-tgm-plugin-activation.php:1965
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s успешно установлен."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/class-tgm-plugin-activation.php:1966
+msgid "All installations have been completed."
+msgstr "Все установки были завершены."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/class-tgm-plugin-activation.php:1967
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка плагина %1$s (%2$d/%3$d)"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_admin.php:40
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/settings.php:110
+msgid "Save All"
+msgstr "Сохранить все"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_admin.php:41
+msgid "Saving ..."
+msgstr "Сохранение ..."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_admin.php:42
+msgid "This will restore all of your options to default. Are you sure?"
+msgstr "Это восстановит все ваши варианты по умолчанию. Вы уверены?"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_admin.php:43
+msgid ""
+"You are going to import the dummy data provided with the theme, kindly "
+"confirm?"
+msgstr ""
+"Вы собираетесь импортировать фиктивные данные, предоставленные на тему, "
+"любезно подтвердить?"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_admin.php:44
+msgid ""
+"Importing is disabled.. :), Please set Disable Import to NO in Buddha Panel "
+"General Settings"
+msgstr ""
+"Импорт отключен .. :), Пожалуйста, установите запретить импорт в NO в Будды "
+"General Settings Panel"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_admin.php:45
+msgid "Click OK to backup your current saved options."
+msgstr ""
+"Нажмите ОК для резервного копирования ваших текущих сохраненные варианты."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_admin.php:46
+msgid "Your options are backuped successfully"
+msgstr "Ваши варианты делается резервная копия успешно"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_admin.php:47
+msgid "Backup Process not working"
+msgstr "Процесс резервного копирования не работает"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_admin.php:48
+msgid ""
+"Warning: All of your current options will be replaced with the data from "
+"your last backup! Proceed?"
+msgstr ""
+"Внимание: Все ваши текущие параметры будут заменены данными из последней "
+"резервной копии! Продолжать?"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_admin.php:49
+msgid "Your options are restored from previous backup successfully"
+msgstr "Ваши варианты восстановлены из предыдущей резервной копии успешно"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_admin.php:50
+msgid "Restore Process not working"
+msgstr "Процесс восстановления не работает"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_admin.php:51
+msgid "Click ok import options from the above textarea"
+msgstr "Нажмите OK параметры импорта из приведенного выше текстовое поле"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_admin.php:52
+msgid "Your options are imported successfully"
+msgstr "Ваши параметры импортируются успешно"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_admin.php:53
+msgid "Import Process not working"
+msgstr "Импорт Процесс не работает"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_admin.php:77
+msgid "Error: Options not saved, please try again."
+msgstr "Ошибка: Опции не сохраненные, попробуйте еще раз."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_admin.php:83
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_admin.php:85
+msgid "Options Saved."
+msgstr "Опции Saved."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_custom_attributes_in_menu.php:48
+#, php-format
+msgid "%s (Invalid)"
+msgstr "%s (Invalid)"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_custom_attributes_in_menu.php:52
+#, php-format
+msgid "%s (Pending)"
+msgstr "%s (Pending)"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_custom_attributes_in_menu.php:64
+msgid "sub item"
+msgstr "подпункт"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_custom_attributes_in_menu.php:96
+msgid "Edit Menu Item"
+msgstr "Редактировать Пункт меню"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_custom_attributes_in_menu.php:104
+msgid "URL"
+msgstr "URL"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_custom_attributes_in_menu.php:111
+msgid "Navigation Label"
+msgstr "Навигация Этикетка"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_custom_attributes_in_menu.php:117
+msgid "Title Attribute"
+msgstr "Название Атрибут"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_custom_attributes_in_menu.php:124
+msgid "Open link in a new window/tab"
+msgstr "Открыть ссылку в новом окне / вкладке"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_custom_attributes_in_menu.php:129
+msgid "CSS Classes (optional)"
+msgstr "Классов CSS (необязательно)"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_custom_attributes_in_menu.php:135
+msgid "Link Relationship (XFN)"
+msgstr "Отношения ссылке (XFN)"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_custom_attributes_in_menu.php:141
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/seo_metabox.php:24
+msgid "Description"
+msgstr "Описание"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_custom_attributes_in_menu.php:143
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_custom_attributes_in_menu.php:193
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+"Описание будет отображаться в меню, если текущая тема поддерживает его."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_custom_attributes_in_menu.php:152
+msgid "Use As Mega Menu"
+msgstr "Использование в качестве Мега Меню"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_custom_attributes_in_menu.php:160
+msgid "Disable Text"
+msgstr "Отключить текст"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_custom_attributes_in_menu.php:168
+msgid "Disable Link"
+msgstr "Отключить Ссылка"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_custom_attributes_in_menu.php:176
+msgid "Enable Fullwidth"
+msgstr "Включить длинная"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_custom_attributes_in_menu.php:183
+msgid "Icon Class (eg: fa-home)"
+msgstr "Иконка класса (например: фа-дом)"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_custom_attributes_in_menu.php:191
+msgid "Custom Content"
+msgstr "дополнительные материалы"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_custom_attributes_in_menu.php:200
+msgid "Sub Menu Column Layout"
+msgstr "Меню нижнего Расположение столбцов"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_custom_attributes_in_menu.php:206
+msgid "Select where to align the submenu."
+msgstr "Выберите, где необходимо выровнять подменю."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_custom_attributes_in_menu.php:215
+msgid "Move"
+msgstr "Переместить"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_custom_attributes_in_menu.php:216
+msgid "Up one"
+msgstr "вверх на один"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_custom_attributes_in_menu.php:217
+msgid "Down one"
+msgstr "Вниз один"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_custom_attributes_in_menu.php:220
+msgid "To the top"
+msgstr "К началу"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_custom_attributes_in_menu.php:227
+#, php-format
+msgid "Original: %s"
+msgstr "Оригинал:%s"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_custom_attributes_in_menu.php:240
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:584
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/branding.php:35
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/general.php:53
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/general.php:79
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/general.php:351
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/general.php:373
+msgid "Remove"
+msgstr "Удалить"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_custom_attributes_in_menu.php:241
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_media_uploader.php:78
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/general.php:353
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/general.php:375
+msgid "Cancel"
+msgstr "Отменить"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_media_uploader.php:73
+msgid "Delete Permanently"
+msgstr "Удалить файл"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_media_uploader.php:75
+msgid "Delete"
+msgstr "Удалить"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_media_uploader.php:76
+#, php-format
+msgid "You are about to delete <strong>%s</strong>."
+msgstr "Вы собираетесь удалить  <strong>%s</strong>."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_media_uploader.php:77
+msgid "Continue"
+msgstr "Продолжить"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_media_uploader.php:81
+msgid "Move to Trash"
+msgstr "Переместить в корзину"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_media_uploader.php:82
+msgid "Undo"
+msgstr "Отменить"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_plugins.php:165
+msgid "Something went wrong with the plugin API."
+msgstr "Что пошло не так с API плагина."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_plugins.php:178
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Установлены все плагины и активируется успешно. %s"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_public.php:55
+#, php-format
+msgid "View all products under %s"
+msgstr "Просмотреть все продукты под %s"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_public.php:830
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_public.php:851
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s at %2$s"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_public.php:856
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает модерации."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_public.php:858
+msgid "reply"
+msgstr "ответить"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_public.php:898
+msgid "Event"
+msgstr "событие"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_public.php:960
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_public.php:1034
+msgid "Forums"
+msgstr "Форум"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_public.php:964
+msgid "Forum"
+msgstr "Форум"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_public.php:982
+msgid "Archive for Category: "
+msgstr "Архив рубрики:"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_public.php:987
+msgid "Archive for Author: "
+msgstr "Архив за Автор:"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_public.php:991
+msgid "Archive for Tag: "
+msgstr "Архив за категории:"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_public.php:995
+msgid "LOST"
+msgstr "ПОТЕРЯЛИ"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_public.php:999
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/specialty-pages.php:8
+msgid "Search"
+msgstr "поиск"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_public.php:1022
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/widgetarea.php:10
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/woocommerce/index.php:133
+msgid "Products"
+msgstr "Продукты"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_public.php:1026
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/sensei/index.php:29
+msgid "Courses"
+msgstr "Курсы"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_public.php:1030
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_shortcodes.php:1137
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/sensei/index.php:30
+msgid "Lessons"
+msgstr "Уроки"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_public.php:1085
+msgid "Select Your Style"
+msgstr "Выберите свой ​​стиль"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_public.php:1087
+msgid "Choose your layout"
+msgstr "Выберите ваш макет"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_public.php:1094
+msgid "Patterns for Boxed Layout"
+msgstr "Шаблоны для штучной упаковке Layout"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/register_public.php:1101
+msgid "Color scheme"
+msgstr "Цветовая схема"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:5
+msgid "Show Google+ One"
+msgstr "Показать Google+ Один"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:7
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:74
+msgid "Standard"
+msgstr "Стандартный"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:8
+msgid "Small"
+msgstr "Малый"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:9
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:83
+msgid "Medium"
+msgstr "Средний"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:10
+msgid "Tall"
+msgstr "Высокий"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:12
+msgid "Arabic"
+msgstr "Арабский"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:13
+msgid "Bengali"
+msgstr "Бенгальский"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:14
+msgid "Bulgarian"
+msgstr "Болгарский"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:15
+msgid "Catalan"
+msgstr "Каталонский"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:16
+msgid "Chinese"
+msgstr "Китайский"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:17
+msgid "Chinese (China)"
+msgstr "Китайский (Китай)"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:18
+msgid "Chinese (Hong Kong)"
+msgstr "Китайский (Гонконг)"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:19
+msgid "Chinese (Taiwan)"
+msgstr "Китайский (Тайвань)"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:20
+msgid "Croation"
+msgstr "Croation"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:21
+msgid "Czech"
+msgstr "Чехия"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:22
+msgid "Danish"
+msgstr "Датский"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:23
+msgid "Dutch"
+msgstr "Голландский"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:24
+msgid "English (India)"
+msgstr "Английский (Индия)"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:25
+msgid "English (Ireland)"
+msgstr "Английский (Ирландия)"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:26
+msgid "English (Singapore)"
+msgstr "Английский (Сингапур)"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:27
+msgid "English (South Africa)"
+msgstr "Английский (Южная Африка)"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:28
+msgid "English (United Kingdom)"
+msgstr "Английский (Великобритания)"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:29
+msgid "Filipino"
+msgstr "Филиппинский"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:30
+msgid "Finnish"
+msgstr "Финский"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:31
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:117
+msgid "French"
+msgstr "Французский"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:32
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:118
+msgid "German"
+msgstr "Немецкий"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:33
+msgid "German (Switzerland)"
+msgstr "Немецкий (Швейцария)"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:34
+msgid "Greek"
+msgstr "Греческий"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:35
+msgid "Gujarati"
+msgstr "гуджарати"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:36
+msgid "Hebrew"
+msgstr "Иврит"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:37
+msgid "Hindi"
+msgstr "Хинди"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:38
+msgid "Hungarian"
+msgstr "Венгерский"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:39
+msgid "Indonesian"
+msgstr "индонезийский"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:40
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:119
+msgid "Italian"
+msgstr "Итальянский"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:41
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:120
+msgid "Japanese"
+msgstr "Японский"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:42
+msgid "Kannada"
+msgstr "каннада"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:43
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:121
+msgid "Korean"
+msgstr "Корейский"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:44
+msgid "Latvian"
+msgstr "Латвийский"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:45
+msgid "Lingala"
+msgstr "лингала"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:46
+msgid "Lithuanian"
+msgstr "Литовский"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:47
+msgid "Malay"
+msgstr "Малайский"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:48
+msgid "Malayalam"
+msgstr "Малайялам"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:49
+msgid "Marathi"
+msgstr "маратхи"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:50
+msgid "Norwegian"
+msgstr "Норвежский"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:51
+msgid "Oriya"
+msgstr "Ория"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:52
+msgid "Persian"
+msgstr "Персидская"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:53
+msgid "Polish"
+msgstr "Польский"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:54
+msgid "Portugese (Brazil)"
+msgstr "Португальский (Бразилия)"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:55
+msgid "Portugese (Portugal)"
+msgstr "Португальский (Португалия)"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:56
+msgid "Romanian"
+msgstr "Румынский"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:57
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:122
+msgid "Russian"
+msgstr "русский"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:58
+msgid "Serbian"
+msgstr "Сербский"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:59
+msgid "Slovak"
+msgstr "Словацкий"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:60
+msgid "Slovenian"
+msgstr "словенский"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:61
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:123
+msgid "Spanish"
+msgstr "Испанский"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:62
+msgid "Swedish"
+msgstr "Шведский"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:63
+msgid "Swiss German"
+msgstr "Швейцарский немецкий"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:64
+msgid "Tamil"
+msgstr "Тамил"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:65
+msgid "Telugu"
+msgstr "телугу"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:66
+msgid "Thai"
+msgstr "Тайский"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:67
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:124
+msgid "Turkish"
+msgstr "Турецкий"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:68
+msgid "Ukranian"
+msgstr "Украинский"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:69
+msgid "Vietnamese"
+msgstr "Вьетнамский"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:72
+msgid "Show Facebook like"
+msgstr "Показать Facebook как"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:75
+msgid "Box Count"
+msgstr "Box Count"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:76
+msgid "Button Count"
+msgstr "Кнопка Граф"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:80
+msgid "Show Digg"
+msgstr "Показать Digg"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:82
+msgid "Wide"
+msgstr "Широкий"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:84
+msgid "Compact"
+msgstr "Компактный"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:85
+msgid "Icon"
+msgstr "Иконка"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:88
+msgid "Show Stumbleupon"
+msgstr "Показать Stumbleupon"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:90
+msgid "style1"
+msgstr "style1"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:91
+msgid "style2"
+msgstr "style2"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:92
+msgid "style3"
+msgstr "style3"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:93
+msgid "style4"
+msgstr "style4"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:94
+msgid "style5"
+msgstr "style5"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:95
+msgid "style6"
+msgstr "style6"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:97
+msgid "Show LinkedIn"
+msgstr "Показать LinkedIn"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:101
+msgid "Show Pintrest"
+msgstr "Показать Pintrest"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:102
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:112
+msgid "Vertical"
+msgstr "Вертикальная"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:102
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:113
+msgid "Horizontal"
+msgstr "Горизонтальная"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:105
+msgid "Show Delicious"
+msgstr "Показать Вкусный"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/social_media.php:109
+msgid "Show Twitter"
+msgstr "Показать Twitter"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_features.php:93
+msgid "Primary Menu"
+msgstr "Первичная Меню"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_features.php:94
+msgid "Secondary Menu"
+msgstr "Вторичный Меню"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_features.php:95
+msgid "Another Secondary Menu"
+msgstr "Другой Вторичный Меню"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_shortcodes.php:8
+msgid "Thanks for Contacting Us, We will call back to you soon."
+msgstr "Спасибо за Связаться с нами, мы будем называть назад к вам скоро."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_shortcodes.php:9
+msgid "Sorry your message not sent, Try again Later."
+msgstr "К сожалению Ваше сообщение не отправлено, попробуйте еще раз позже."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_shortcodes.php:16
+msgid "Name *"
+msgstr "Имя *"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_shortcodes.php:17
+msgid "Email *"
+msgstr "E-mail *"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_shortcodes.php:18
+msgid "Subject"
+msgstr "Тема"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_shortcodes.php:21
+msgid "Message *"
+msgstr "Сообщение *"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_shortcodes.php:22
+msgid "Submit"
+msgstr "Отправить"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_shortcodes.php:290
+#, php-format
+msgid "View all posts in %s"
+msgstr "Посмотреть все сообщения в %s"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_shortcodes.php:304
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_shortcodes.php:781
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_shortcodes.php:891
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_shortcodes.php:1145
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/includes/archive-post-layout.php:136
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/includes/blog-post-layout.php:150
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/includes/gallery-post-layout.php:122
+msgid "Nothing Found."
+msgstr "Ничего не найдено."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_shortcodes.php:305
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_shortcodes.php:782
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_shortcodes.php:892
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_shortcodes.php:1146
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/includes/archive-post-layout.php:137
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/includes/blog-post-layout.php:151
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/includes/gallery-post-layout.php:123
+msgid "Apologies, but no results were found for the requested archive."
+msgstr "Извинения, но ничего не найдено на указанный архив."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_shortcodes.php:336
+msgid "Contact Info"
+msgstr "Контактная информация"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_shortcodes.php:530
+msgid "Tweet"
+msgstr "Tweet"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_shortcodes.php:559
+msgid "Delicious"
+msgstr "Вкусный"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_shortcodes.php:571
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_shortcodes.php:575
+msgid "Pin It"
+msgstr "Pin It"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_shortcodes.php:575
+msgid "Pin It on Pinterest"
+msgstr "Pin It на Pinterest"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_shortcodes.php:631
+msgid "Save"
+msgstr "Сохранить"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_shortcodes.php:732
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/page_metabox.php:303
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/page_metabox.php:464
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/includes/gallery-post-layout.php:67
+msgid "All"
+msgstr "Все"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_shortcodes.php:1038
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_widgets/mailchimp.php:72
+msgid ""
+"Success!&nbsp; Check your inbox or spam folder for a message containing a "
+"confirmation link."
+msgstr ""
+"! Успех & NBSP; Проверьте свой ​​почтовый ящик или папку спама для сообщения "
+"со ссылкой для подтверждения."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_shortcodes.php:1040
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_widgets/mailchimp.php:75
+msgid "Error:"
+msgstr "Ошибка:"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_shortcodes.php:1048
+msgid "Enter Name"
+msgstr "Введите имя"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_shortcodes.php:1049
+msgid "Enter Email"
+msgstr "Введите e-mail"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_shortcodes.php:1051
+msgid "Subscribe"
+msgstr "Подписаться"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_shortcodes.php:1135
+msgid "Free"
+msgstr "бесплатно"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/utils.php:129
+msgid "Search results for"
+msgstr "Результаты поиска"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/utils.php:143
+msgid "Page not found"
+msgstr "Страница не найдена"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/utils.php:371
+msgid "Footer Column"
+msgstr "Footer Колонка"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/utils.php:715
+msgid "of"
+msgstr "из"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/utils.php:869
+msgid "Experience"
+msgstr "Опыт"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/utils.php:870
+msgid "Courses Submitted"
+msgstr "Курсы Представленные"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/utils.php:871
+msgid "Specialist in"
+msgstr "специалист в"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/utils.php:875
+msgid "read more"
+msgstr "читать далее"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/page_metabox.php:3
+msgid "Slider Options"
+msgstr "Slider Опции"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/page_metabox.php:4
+msgid "Default page Options"
+msgstr "Опции по умолчанию страница"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/page_metabox.php:17
+msgid "Show Slider"
+msgstr "Показать Slider"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/page_metabox.php:24
+msgid "YES! to show slider on this page."
+msgstr "ДА! показать ползунок на этой странице."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/page_metabox.php:31
+msgid "Choose Slider"
+msgstr "Выберите Slider"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/page_metabox.php:35
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/page_metabox.php:62
+msgid "Layer Slider"
+msgstr "слой Slider"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/page_metabox.php:36
+msgid "Revolution Responsive"
+msgstr "революция Отзывчивый"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/page_metabox.php:46
+msgid "Choose which slider you wish to use ( eg: Layer or Revolution )"
+msgstr ""
+"Выберите, какие слайдер вы хотите использовать (например: Layer или "
+"революция)"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/page_metabox.php:75
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/page_metabox.php:107
+msgid "Select LayerSlider"
+msgstr "Выберите LayerSlider"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/page_metabox.php:79
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/page_metabox.php:111
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/page_metabox.php:139
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/page_metabox.php:143
+msgid "Select Slider"
+msgstr "Выберите Slider"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/page_metabox.php:89
+msgid "Choose Which LayerSlider you would like to use.."
+msgstr "Выберите Какие LayerSlider вы хотели бы использовать .."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/page_metabox.php:95
+msgid "Please add atleat one layer slider"
+msgstr "Пожалуйста, добавьте atleat ползунок один слой"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/page_metabox.php:119
+msgid "Choose which LayerSlider would you like to use!"
+msgstr "Выберите, какие LayerSlider бы Вы хотели использовать!"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/page_metabox.php:126
+msgid "Please activate Layered Slider"
+msgstr "Пожалуйста, включите Многоуровневая Slider"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/page_metabox.php:133
+msgid "Revolution Slider"
+msgstr "революция Slider"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/page_metabox.php:151
+msgid "Choose which Revolution slider would you like to use!"
+msgstr "Выберите, какие революции слайдер бы Вы хотели использовать!"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/page_metabox.php:157
+msgid "Please activate Revolution Slider , and add at least one slider."
+msgstr ""
+"Пожалуйста, включите Revolution Slider, и добавить по крайней мере, один "
+"слайдер."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/page_metabox.php:178
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/post_metabox.php:16
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:476
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/events.php:18
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/events.php:40
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/events.php:62
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/integration.php:150
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/integration.php:312
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/sensei.php:19
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/sensei.php:41
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/sensei.php:63
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/sensei.php:85
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/woocommerce.php:26
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/woocommerce.php:48
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/woocommerce.php:70
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/woocommerce.php:93
+msgid "Layout"
+msgstr "Макет"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/page_metabox.php:191
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/post_metabox.php:29
+msgid "You can choose between a left, right or no sidebar layout."
+msgstr "Вы можете выбрать между левой, правой или не макет боковой панели."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/page_metabox.php:198
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/post_metabox.php:64
+msgid "Disable Every Where Sidebar"
+msgstr "Отключить Каждый Где Sidebar"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/page_metabox.php:205
+msgid "Yes! to hide \"Every Where Sidear\" on this page."
+msgstr "Да! скрыть \"Каждый Где Sidear\"  на этой странице."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/page_metabox.php:213
+msgid "Menu Icon Class"
+msgstr "Меню Иконка класса"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/page_metabox.php:218
+msgid "Icon class for this page( eg: fa-desktop )"
+msgstr "Иконка класс для этой страницы (например: фа-рабочий стол)"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/page_metabox.php:229
+msgid "Allow Comments"
+msgstr "Разрешить Комментарии"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/page_metabox.php:236
+msgid "YES! to allow comments on this page."
+msgstr "ДА! разрешены комментарии на этой странице."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/page_metabox.php:244
+msgid "Full Width Section"
+msgstr "Полный Ширина Раздел"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/page_metabox.php:249
+msgid "This content will appear in full width"
+msgstr "Этот контент появится в полную ширину"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/page_metabox.php:257
+msgid "Choose Menu"
+msgstr "Выберите Меню"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/page_metabox.php:269
+msgid "The choosen menu items work as one page."
+msgstr "В подобранные элементы меню работать как одна страница."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/page_metabox.php:279
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/page_metabox.php:417
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/specialty-pages.php:20
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/specialty-pages.php:36
+msgid "Posts Layout"
+msgstr "Сообщений Макет"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/page_metabox.php:283
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/specialty-pages.php:92
+msgid "Single post per row."
+msgstr "Одноместный сообщение на строку."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/page_metabox.php:284
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/page_metabox.php:421
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/specialty-pages.php:92
+msgid "Two posts per row."
+msgstr "Два сообщений в строке."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/page_metabox.php:292
+msgid "Choose layout style for your Blog"
+msgstr "Выберите стиль макета для вашего блога"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/page_metabox.php:299
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/page_metabox.php:460
+msgid "Post per page"
+msgstr "Сообщение на странице"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/page_metabox.php:309
+msgid "Your blog pages show at most selected number of posts per page."
+msgstr ""
+"Ваши страницы блога показать на наиболее выбранное количество сообщений на "
+"странице."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/page_metabox.php:316
+msgid "Allow Excerpt"
+msgstr "Разрешить Выдержка"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/page_metabox.php:323
+msgid "Enable Excerpt"
+msgstr "Включить Выдержка"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/page_metabox.php:330
+msgid "Excerpt Length"
+msgstr "Отрывок Длина"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/page_metabox.php:335
+msgid ""
+"Limit! Number of charectors from the content to appear on each blog post "
+"(Number Only)"
+msgstr ""
+"Ограничьте! Количество charectors от содержания появляться на каждом блоге "
+"(только число)"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/page_metabox.php:341
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/post_metabox.php:77
+msgid "Post Meta Options"
+msgstr "Подать Мета Опции"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/page_metabox.php:344
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/post_metabox.php:80
+msgid "Disable the Author info."
+msgstr "Отключить Автор данные."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/page_metabox.php:345
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/post_metabox.php:81
+msgid ""
+"By default the author info will display when viewing your posts. You can "
+"choose to disable it here."
+msgstr ""
+"По умолчанию автор Информация будет отображаться при просмотре сообщения. Вы "
+"можете отключить его здесь."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/page_metabox.php:348
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/post_metabox.php:84
+msgid "Disable the date info."
+msgstr "Отключить дате данные."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/page_metabox.php:349
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/post_metabox.php:85
+msgid ""
+"By default the date info will display when viewing your posts. You can "
+"choose to disable it here."
+msgstr ""
+"По умолчанию дата Информация будет отображаться при просмотре сообщения. Вы "
+"можете отключить его здесь."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/page_metabox.php:353
+msgid "Disable the comment"
+msgstr "Отключение комментарий"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/page_metabox.php:354
+msgid ""
+"By default the comment will display when viewing your posts. You can choose "
+"to disable it here."
+msgstr ""
+"По умолчанию комментарий будет отображаться при просмотре сообщения. Вы "
+"можете отключить его здесь."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/page_metabox.php:358
+msgid "Disable the category"
+msgstr "Отключить категорию"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/page_metabox.php:359
+msgid ""
+"By default the category will display when viewing your posts. You can choose "
+"to disable it here."
+msgstr ""
+"По умолчанию категория будет отображаться при просмотре сообщения. Вы можете "
+"отключить его здесь."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/page_metabox.php:363
+msgid "Disable the tag"
+msgstr "Отключить тег"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/page_metabox.php:364
+msgid ""
+"By default the tag will display when viewing your posts. You can choose to "
+"disable it here."
+msgstr ""
+"По умолчанию тег будет отображаться при просмотре сообщения. Вы можете "
+"отключить его здесь."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/page_metabox.php:393
+msgid "Exclude Categories"
+msgstr "Исключить Категории"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/page_metabox.php:408
+msgid "You can choose certain categories to exclude from your blog page."
+msgstr ""
+"Вы можете выбрать определенные категории исключить из вашей странице блога."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/page_metabox.php:422
+msgid "Three posts per row."
+msgstr "Три сообщений в строке."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/page_metabox.php:423
+msgid "Four Posts per row"
+msgstr "Четыре Сообщений в строке"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/page_metabox.php:431
+msgid "Choose layout style for your Gallery"
+msgstr "Выберите стиль макета для вашего Галерея"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/page_metabox.php:439
+msgid "Type of Posts Design"
+msgstr "Тип сообщений дизайна"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/page_metabox.php:442
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/specialty-pages.php:115
+msgid "Default"
+msgstr "По умолчанию"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/page_metabox.php:443
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/specialty-pages.php:116
+msgid "Shape One"
+msgstr "Форма один"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/page_metabox.php:444
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/specialty-pages.php:117
+msgid "Shape Two"
+msgstr "Форма Two"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/page_metabox.php:445
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/specialty-pages.php:118
+msgid "Shape Three"
+msgstr "Форма Три"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/page_metabox.php:453
+msgid "Your gallery posts show with choosen shape."
+msgstr "Ваши галерея сообщений показать выбран с формой."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/page_metabox.php:470
+msgid "Your gallery pages show at most selected number of posts per page."
+msgstr ""
+"Ваши галерея страницы показать на наиболее выбранное количество сообщений на "
+"странице."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/page_metabox.php:476
+msgid "Allow Filters"
+msgstr "Разрешить фильтры"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/page_metabox.php:483
+msgid "Allow filter options for gallery items"
+msgstr "Разрешить параметры фильтров для галереи пунктов"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/page_metabox.php:489
+msgid "Choose Categories"
+msgstr "Выберите категории"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/page_metabox.php:504
+msgid "You can choose only certain categories to show in gallery items. "
+msgstr ""
+"Вы можете выбрать только определенные категории для показа в галерее "
+"предметов."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/post_metabox.php:3
+msgid "Post Options"
+msgstr "Опции сообщения"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/post_metabox.php:4
+msgid "Post Format Options"
+msgstr "Опции Формат"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/post_metabox.php:36
+msgid "Disable Comments"
+msgstr "Отключить Комментарии"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/post_metabox.php:43
+msgid "YES! to disable Comments."
+msgstr "ДА! отключить Комментарии."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/post_metabox.php:50
+msgid "Disable Featured Image"
+msgstr "Отключить Популярные изображения"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/post_metabox.php:57
+msgid "YES! to disable featured image"
+msgstr "ДА! отключить признакам изображение"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/post_metabox.php:71
+msgid "YES! to disable Every Where Sidebar"
+msgstr "ДА! отключить каждый, где Sidebar"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/post_metabox.php:89
+msgid "Disable the comment info."
+msgstr "Отключение комментарий."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/post_metabox.php:90
+msgid ""
+"By default the comment info will display when viewing your posts. You can "
+"choose to disable it here."
+msgstr ""
+"По умолчанию комментарий Информация будет отображаться при просмотре "
+"сообщения. Вы можете отключить его здесь."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/post_metabox.php:94
+msgid "Disable the category info."
+msgstr "Отключить данные категории."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/post_metabox.php:95
+msgid ""
+"By default the category info will display when viewing your posts. You can "
+"choose to disable it here."
+msgstr ""
+"По умолчанию данные категории будут отображаться при просмотре сообщения. Вы "
+"можете отключить его здесь."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/post_metabox.php:99
+msgid "Disable the tag info."
+msgstr "Отключить информацию тегов."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/post_metabox.php:100
+msgid ""
+"By default the tag info will display when viewing your posts. You can choose "
+"to disable it here."
+msgstr ""
+"По умолчанию информация тегов будет при просмотре сообщения. Вы можете "
+"отключить его здесь."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/post_metabox.php:137
+msgid "Image Gallery"
+msgstr "Галерея изображений"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/post_metabox.php:141
+msgid "Click Here to Add Images"
+msgstr "Нажмите здесь, чтобы добавить изображения"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/post_metabox.php:178
+msgid "oEmbed URL"
+msgstr "oEmbed URL"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/post_metabox.php:182
+msgid ""
+"Enter a URL that is compatible with WP's built-in oEmbed feature. This "
+"setting is used for your video and audio post formats."
+msgstr ""
+"Введите URL, который совместим с встроенной функцией WP в oEmbed. Эта "
+"установка используется для видео и аудио сообщению форматах."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/post_metabox.php:187
+msgid "Self Hosted URL"
+msgstr "Само Хостинг URL"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/post_metabox.php:191
+msgid "Insert your self hosted video or audio url here."
+msgstr ""
+"Вставьте вашу собственную личность состоялась видео или аудио URL здесь."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/seo_metabox.php:6
+msgid "SEO Options"
+msgstr "SEO параметры"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/seo_metabox.php:15
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/seo.php:6
+msgid "Title"
+msgstr "Название"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/seo_metabox.php:19
+msgid ""
+"The title display in search engines is limited to 70 chars. If the SEO title "
+"is empty the title will be generated based on your title template in your "
+"SEO settings."
+msgstr ""
+"На дисплее название в поисковых системах ограничивается 70 символов. Если "
+"заголовок SEO пуст название будет генерироваться на основе шаблона заголовка "
+"в настройках SEO."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/seo_metabox.php:28
+msgid ""
+"The meta description will be limited to 140 chars. If the meta description "
+"is empty the description <br> will be generated based on your meta "
+"description options in your SEO settings."
+msgstr ""
+"Мета описание будет ограничено до 140 символов. Если мета-описания пуст "
+"описание <br> будет генерироваться на основе мета вариантов описания в "
+"настройках SEO."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/seo_metabox.php:33
+msgid "Keywords"
+msgstr "Ключевые слова"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_metaboxes/seo_metabox.php:37
+msgid "Add any additional comma separated keywords here."
+msgstr "Добавьте любые дополнительные поисковые слова здесь."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:7
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:25
+msgid "Header"
+msgstr "Заголовок"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:8
+msgid "Menu"
+msgstr "Меню"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:9
+msgid "Body"
+msgstr "Тело"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:10
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/footer.php:7
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/footer.php:16
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/settings.php:43
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/settings.php:60
+msgid "Footer"
+msgstr "Footer"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:11
+msgid "Typography"
+msgstr "Типография"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:12
+msgid "Layouts"
+msgstr "Макеты"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:13
+msgid "Colors"
+msgstr "Цвета"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:23
+msgid "Choose Header"
+msgstr "Выберите заголовок"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:26
+msgid "Choose the header type"
+msgstr "Выберите тип заголовка"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:49
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:88
+msgid "Menu Font"
+msgstr "Меню шрифта"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:53
+msgid "Disable Menu Settings"
+msgstr "Отключить Настройки меню"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:55
+msgid "Enable or Disable Menu section apperance settings."
+msgstr "Включение или отключение раздел Меню настройки Внешний вид."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:65
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:145
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:419
+msgid "Choose Font Type"
+msgstr "Выберите тип шрифта"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:70
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:150
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:244
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:298
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:424
+msgid "Choose which type font."
+msgstr "Выберите, какой шрифт типа."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:79
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:159
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:253
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:307
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:432
+msgid "Standard Font"
+msgstr "Стандартный шрифт"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:82
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:162
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:256
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:310
+msgid "Sample Title Font Style"
+msgstr "Пример Название шрифта Стиль"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:89
+msgid "Choose the menu font"
+msgstr "Выберите шрифт меню"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:96
+msgid "Menu Font Size"
+msgstr "Меню Размер шрифта"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:103
+msgid "Primary / Default Color"
+msgstr "Первичная / Цвет по умолчанию"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:106
+msgid "Pick a custom primary color for the menu e.g. #564912"
+msgstr "Выберите пользовательский основной цвет для меню e.g. #564912"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:113
+msgid "Hover Color"
+msgstr "Hover Цвет"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:116
+msgid "Pick a custom hover state color for the menu e.g. #564912"
+msgstr ""
+"Выберите государственную пользовательский цвет при наведении на меню, "
+"например #564912"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:130
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:169
+msgid "Body Font"
+msgstr "Тело шрифта"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:134
+msgid "Disable Body Settings"
+msgstr "Отключить Настройки Кузов"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:136
+msgid "Enable or Disable Body apperance settings."
+msgstr "Включение и отключение тела Внешний вид настройки."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:171
+msgid "Choose the body font"
+msgstr "Выберите шрифт тела"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:180
+msgid "Body Font Color"
+msgstr "Тело Цвет шрифта"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:183
+msgid "Pick a custom font color for body/content e.g. #a314a3"
+msgstr ""
+"Выберите цвет специальный шрифт для тела / содержание например  #a314a3"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:189
+msgid "Body Font Size"
+msgstr "Тело Размер шрифта"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:195
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:345
+msgid "Primary / Default Color for Links"
+msgstr "Первичная / Цвет по умолчанию для ссылки"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:198
+msgid ""
+"Pick a custom primary color to links and buttons for body/content e.g. "
+"#551256"
+msgstr ""
+"Выберите пользовательский первичный цвет ссылок и кнопок для тела / "
+"содержание, например,#551256"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:205
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:355
+msgid "Hover Color for Links"
+msgstr "Наведите цвет за ссылки"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:208
+msgid ""
+"Pick a custom hover state color to links and buttons for body/content e.g. "
+"#564912"
+msgstr ""
+"Выберите пользовательский наведении государственную цвет ссылок и кнопок для "
+"тела / содержание e.g. #564912"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:224
+msgid "Footer Font"
+msgstr "шрифт нижнего колонтитула"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:228
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:229
+msgid "Disable Footer Settings"
+msgstr "Отключить Настройки нижнего колонтитула"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:230
+msgid "Enable or Disable Footer apperance settings."
+msgstr "Включение или настройки Внешний вид Отключить Footer."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:239
+msgid "Choose Footer Title Font Type"
+msgstr "Выберите тип Footer Название шрифта"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:262
+msgid "Footer Title Font"
+msgstr "Footer Название шрифта"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:265
+msgid "Choose the footer font"
+msgstr "Выберите шрифт сноски"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:273
+msgid "Footer Title Font Color"
+msgstr "Footer Название Цвет шрифта"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:276
+msgid "Pick a custom footer title font color to the theme e.g. #a314a3"
+msgstr ""
+"Выберите Custom Footer цвет название шрифта в тематический например #a314a3"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:283
+msgid "Footer Font Size"
+msgstr "Footer Размер шрифта"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:293
+msgid "Choose Footer Content Font Type"
+msgstr "Выберите Footer Публикации шрифт"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:316
+msgid "Footer Content Font"
+msgstr "Footer Содержимое шрифта"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:319
+msgid "Choose the footer content font"
+msgstr "Выберите шрифт контента подвал"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:328
+msgid "Footer Content Font Color"
+msgstr "Footer Содержимое Цвет шрифта"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:331
+msgid "Pick a custom font color for footer content e.g. #a314a3"
+msgstr "Выберите цвет специальный шрифт для содержания сноски например #a314a3"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:338
+msgid "Footer Content Font Size"
+msgstr "Footer Содержимое Размер шрифта"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:348
+msgid "Pick a custom primary color for links in footer e.g. #551256"
+msgstr ""
+"Выберите пользовательский основной цвет для ссылок в нижней сноски, например "
+"#551256"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:358
+msgid "Pick a custom color for footer links hover state e.g. #564912"
+msgstr ""
+"Выберите пользовательский цвет для нижний колонтитулы ссылки наведении "
+"государственную например #564912"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:367
+msgid "Footer BG Color"
+msgstr "Footer BG Цвет"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:370
+msgid ""
+"Pick a custom background color of the theme's footer section.(e.g. #a314a3)"
+msgstr ""
+"Выберите пользовательский цвет фона нижнего колонтитула разделе темы.(e.g. "
+"#a314a3)"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:376
+msgid "Copyright Section BG Color"
+msgstr "Раздел Copyright BG Цвет"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:379
+msgid ""
+"Pick a custom background color of the theme's copyright section.(e.g. "
+"#a314a3)"
+msgstr ""
+"Выберите пользовательский цвет фона авторском разделе темы.(e.g. #a314a3)"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:398
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:402
+msgid "Disable Typography Settings"
+msgstr "Отключить Настройки Типография"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:404
+msgid "Enable or Disable the typography settings"
+msgstr "Включение или отключение настроек типографии"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:410
+msgid "Font Family, Size and Color"
+msgstr "Шрифт Семья, размер и цвет"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:414
+msgid "Choose Font Family, Size and Color for"
+msgstr "Выберите Семейство шрифтов, размера и цвета для"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:435
+msgid "Standard Font Style"
+msgstr "Стандартный Стиль шрифта"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:441
+msgid "Font"
+msgstr "шрифт"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:451
+msgid "Font Color"
+msgstr "Цвет шрифта"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:458
+msgid "Font Size"
+msgstr "Размер шрифта"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:472
+msgid "Choose Layout"
+msgstr "Выберите Макет"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:477
+msgid "Choose the Layout Style(Boxed / Fullwidth)"
+msgstr "Выберите стиль разметки (в штучной упаковке / длинная)"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:498
+msgid "Boxed Layout BG Background"
+msgstr "В штучной упаковке Макет BG Фон"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:509
+msgid "Choose Patterns"
+msgstr "Выберите Patterns"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:523
+msgid ""
+"Choose background pattern, you can add patterns by placing the png files in "
+"the folder "
+msgstr ""
+"Выберите фоновый узор, можно добавить шаблоны, помещая PNG файлы в папке"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:530
+msgid "Boxed Layout Background Pattern repeat"
+msgstr "Коробочные фон макета Раппорт"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:540
+msgid "Select how would you like to repeat the pattern image"
+msgstr "Выберите, как вы бы хотели повторить картина файл"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:548
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:627
+msgid "Disable Background Color"
+msgstr "Отключить Цвет фона"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:555
+msgid "Choose Background Color"
+msgstr "Выберите цвет фона"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:558
+msgid "Pick a custom background color of the theme.(e.g. #a314a3)"
+msgstr "Выберите пользовательский цвет фона темы.(e.g. #a314a3)"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:568
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:645
+msgid "Background opacity"
+msgstr "Фон непрозрачность"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:578
+msgid "Boxed Layout Background Image"
+msgstr "Коробочные Макет фонового изображения"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:583
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/branding.php:34
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/general.php:52
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/general.php:78
+msgid "Upload"
+msgstr "Загрузить"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:587
+msgid "Upload an image for the theme's background"
+msgstr "Загрузите изображение для фоном темы"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:595
+msgid "Background Image Repeat"
+msgstr "Фон Повтор изображения"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:596
+msgid "Select how would you like to repeat the background image"
+msgstr "Выберите, как вы бы хотели повторить фоновое изображение"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:602
+msgid "Background Image Position"
+msgstr "Фоновое изображение установки"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:603
+msgid "Select how would you like to position the background"
+msgstr "Выберите, как вы бы хотели, чтобы позиционировать фон"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:635
+msgid "Background Color"
+msgstr "Цвет фона"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:638
+msgid "Pick a background color of the theme.(e.g. #a314a3)"
+msgstr "Выберите цвет фона темы.(e.g. #a314a3)"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:657
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:660
+msgid "Disable Styling Settings"
+msgstr "Отключить Настройки Styling"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:662
+msgid "Enable or Disable the styling settings"
+msgstr "Включение или отключение настроек для укладки"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:669
+msgid "Top Bar Styling"
+msgstr "Топ Бар Styling"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:672
+msgid "Background Color for Top Bar"
+msgstr "Цвет фона для Top Bar"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:675
+msgid "Pick a custom background color for top bar e.g. #551256"
+msgstr "Выберите цвет фона для верхней панели, например, #551256"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:682
+msgid "Text & Link Color for Top Bar"
+msgstr "Текст & Link Цвет для Top Bar"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:685
+msgid "Pick a custom color for top bar text & links e.g. #564912"
+msgstr ""
+"Выберите пользовательский цвет для верхней текста и ссылок бар e.g . #564912"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:695
+msgid "Header Styling"
+msgstr "Заголовок Styling"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:698
+msgid "Background Color for Header"
+msgstr "Цвет фона для заголовка"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:701
+msgid "Pick a custom background color for header e.g. #551256"
+msgstr "Выберите цвет фона для заголовка например #551256"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:708
+msgid "Active Menu BG Color"
+msgstr "Активность Меню BG Цвет"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:711
+msgid "Pick a custom color for header active menu background e.g. #564912"
+msgstr ""
+"Выберите пользовательский цвет для заголовка активного меню фона, например, "
+"#564912"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:721
+msgid "Breadcrumb Styling"
+msgstr "Иерархическая Styling"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:724
+msgid "Background Color for Breadcrumb"
+msgstr "Цвет фона для Breadcrumb"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:727
+msgid "Pick a custom background color for breadcrumb e.g. #551256"
+msgstr "Выберите цвет фона для хлебных крошек, например  #551256"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:734
+msgid "Breadcrumb's Text Color"
+msgstr "Текст хлебных крошек в Цвет"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:737
+msgid "Pick a custom color for breadcrumb text & links e.g. #564912"
+msgstr ""
+"Выберите пользовательский цвет для крошка текста и ссылок, например  #564912"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:747
+msgid "Body Styling"
+msgstr "шейпингом"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:750
+msgid "Background Color for Body"
+msgstr "Цвет фона для органа"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:753
+msgid "Pick a custom background color for body e.g. #551256"
+msgstr "Выберите цвет фона для тела, например #551256"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:763
+msgid "Footer Styling"
+msgstr "Footer Styling"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:766
+msgid "Background Color for Footer"
+msgstr "Цвет фона для Footer"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:769
+msgid "Pick a custom background color for footer e.g. #551256"
+msgstr "Выберите пользовательский цвет фона для колонтитула например  #551256"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:776
+msgid "Footer Text Color"
+msgstr "Footer Цвет текста"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:779
+msgid "Pick a custom color for footer text & links e.g. #564912"
+msgstr "Выберите пользовательский цвет для Сноска & ссылок например #564912"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:789
+msgid "Sub Footer Styling"
+msgstr "Sub Footer Styling"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:792
+msgid "Background Color for Sub-Footer"
+msgstr "Цвет фона для Sub-Footer"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:795
+msgid "Pick a custom background color for sub-footer e.g. #551256"
+msgstr "Выберите цвет фона для суб-футовой e.g  #551256"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:802
+msgid "Sub-Footer Text Color"
+msgstr "Sub-Footer Цвет текста"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/appearance.php:805
+msgid "Pick a custom color for sub-footer text & links e.g. #564912"
+msgstr ""
+"Выберите пользовательский цвет для суб-Сноска & ссылки, например, #564912"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/backup.php:6
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/settings.php:51
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/settings.php:68
+msgid "Backup"
+msgstr "Резервное копирование"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/backup.php:13
+msgid "Backup and Restore Options"
+msgstr "Резервное копирование и восстановление Опции"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/backup.php:15
+msgid ""
+"You can use the two buttons below to backup your current options, and then "
+"restore it back at a later time. This is useful if you want to experiment on "
+"the options but would like to keep the old settings in case you need it back."
+msgstr ""
+"Вы можете использовать эти две кнопки ниже для резервного копирования ваших "
+"текущих опций, а затем восстановить его обратно в более позднее время. Это "
+"полезно, если вы хотите поэкспериментировать на варианты, но хотели бы "
+"сохранить старые настройки на случай необходимости его обратно."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/backup.php:17
+msgid "No backups yet"
+msgstr "Отзывов пока нет резервных копий"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/backup.php:18
+msgid "Last Backup : "
+msgstr "Последние Резервное копирование:"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/backup.php:22
+msgid "Backup Options"
+msgstr "параметры резервного копирования"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/backup.php:23
+msgid "Restore Options"
+msgstr "Параметры восстановления"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/backup.php:27
+msgid "Transfer Theme Options Data"
+msgstr "Передача Тема Опции данных"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/backup.php:29
+msgid ""
+"You can tranfer the saved options data between different installs by copying "
+"the text inside the text box. To import data from another install, replace "
+"the data in the text box with the one from another install and click 'Import "
+"Options'"
+msgstr ""
+"Вы можете пересилки сохраненные данные Варианты между различными установок, "
+"скопировав текст в текстовом поле. Чтобы импортировать данные из другой "
+"установки, то заменить данные в текстовом поле с одной от другой установки и "
+"нажмите \"Параметры импорта\""
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/backup.php:45
+msgid "Import Options"
+msgstr "параметры импорта"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/branding.php:6
+msgid "Admin"
+msgstr "Админ"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/branding.php:16
+msgid "Buddha Panel Logo"
+msgstr "Будда панель Логотип"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/branding.php:20
+msgid "Replace Buddha Panel Logo"
+msgstr "Заменить Будда панели с логотипом"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/branding.php:39
+msgid ""
+"Upload an image to replace the default buddha panel logo.<b><i>You can set "
+"your own brnad</i></b>. "
+msgstr ""
+"Загрузите изображение, чтобы заменить логотип Будда панели по умолчанию "
+"<b><i> Вы можете настроить свой собственный brnad</i></b>. "
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/events.php:6
+msgid "Events Settings"
+msgstr "События Настройки"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/events.php:19
+msgid "Choose the Events page layout"
+msgstr "Выберите макет страницы События"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/events.php:37
+msgid "Event Detail"
+msgstr "Сведения о событии"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/events.php:41
+msgid "Choose the Event page layout"
+msgstr "Выберите макет страницы событие"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/events.php:59
+msgid "Event Category"
+msgstr "Категория события"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/events.php:63
+msgid "Choose the Event category page layout Style"
+msgstr "Выберите категорию событие Макет страницы Стиль"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/events.php:81
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/sensei.php:104
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/woocommerce.php:112
+msgid "Warning"
+msgstr "Предупреждение"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/events.php:82
+msgid ""
+"You have to install and activate the TheEventsCalendar plugin to use this "
+"module .."
+msgstr ""
+"Вы должны установить и активировать плагин TheEventsCalendar использовать "
+"этот модуль .."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/footer.php:23
+msgid "Show Footer"
+msgstr "Показать Footer"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/footer.php:30
+msgid "Footer Column Layout"
+msgstr "Footer Макет Колонка"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/footer.php:31
+msgid "Select a perfect column layout style for your theme's footer."
+msgstr "Выберите идеальный стиль колонок для сноске вашей темы."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/footer.php:50
+msgid "Show Copyright Text"
+msgstr "Показать Copyright Текст"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/footer.php:57
+msgid "Copyright Text"
+msgstr "Copyright текст"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/footer.php:60
+msgid ""
+"You can paste your copyright text in this box. This will be automatically "
+"added to the footer."
+msgstr ""
+"Вы можете вставить свою собственность текст этой рамки. Это будут "
+"автоматически добавлены к сноске."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/general.php:7
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/integration.php:6
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/settings.php:37
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/settings.php:55
+msgid "General"
+msgstr "общее"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/general.php:8
+msgid "Top"
+msgstr "Топ"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/general.php:9
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/general.php:308
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/general.php:365
+msgid "Sociable"
+msgstr "Общительный"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/general.php:17
+msgid "Logo"
+msgstr "Логотип"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/general.php:24
+msgid "Custom Image Logo"
+msgstr "Пользовательские изображения логотипа"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/general.php:25
+msgid "Display Site Title <small><a href=\""
+msgstr "Дисплей Название сайта <small><a href=\""
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/general.php:44
+msgid ""
+"You can choose whether you wish to display a custom logo or your site title."
+msgstr ""
+"Вы можете выбрать, хотите ли вы, чтобы отобразить собственный логотип или "
+"ваш заголовок сайта."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/general.php:57
+msgid ""
+"Upload a logo for your theme, or specify the image address of your online "
+"logo."
+msgstr ""
+"Загрузить логотип для вашей темы, или указать адрес изображения вашего "
+"онлайн логотипом."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/general.php:63
+msgid "Favicon"
+msgstr "Favicon"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/general.php:66
+msgid "Enable Favicon"
+msgstr "Включить Favicon"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/general.php:81
+msgid "Upload a favicon for your theme, or specify the oneline URL for favicon"
+msgstr ""
+"Загрузить значок сайта для вашей темы, или указать oneline URL для Favicon"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/general.php:85
+msgid "Others"
+msgstr "Другие"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/general.php:88
+msgid "Enable Sticky Navigation"
+msgstr "Включить Sticky Навигация"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/general.php:99
+msgid "YES! to enable sticky navigation."
+msgstr "ДА! для того, чтобы липкий навигации."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/general.php:104
+msgid "Globally Disable Comments on Pages"
+msgstr "Глобальное отключение Комментарии Страницы"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/general.php:115
+msgid ""
+"YES! to disable comments on all the pages. This will globally override your "
+"\"Allow comments\" option under your page \"Discussion\" settings. "
+msgstr ""
+"ДА! отключить комментарии на всех страницах. Это глобально переопределить   "
+"\"Allow comments\" вариант под Вашу страницу \"Discussion\" настройки."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/general.php:119
+msgid "Globally Disable Comments on Posts"
+msgstr "Глобальное отключение Комментарии сообщений"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/general.php:129
+msgid ""
+"YES! to disable comments on all the posts. This will globally override your "
+"\"Allow comments\" option under your post \"Discussion\" settings. "
+msgstr ""
+"ДА! отключить комментарии на всех должностях. Это глобально переопределить "
+"\"Allow comments\"  вариант под вашим сообщению \"Discussion\" настройки. "
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/general.php:133
+msgid "Globally Disable Comments on Galleries"
+msgstr "Глобальное отключение Комментарии галереи"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/general.php:142
+msgid "Enable/ Disable comments on gallery pages."
+msgstr "Включение / выключение комментировать галерея страниц."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/general.php:146
+msgid "Globally Disable Comments on Teachers"
+msgstr "Глобальное отключение Комментарии учителей"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/general.php:155
+msgid "Enable/ Disable comments on teacher pages."
+msgstr "Включение / выключение комментарии на страницах учителей."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/general.php:159
+msgid "Globally Disable Breadcrumbs"
+msgstr "Глобальное отключение Хлебные крошки"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/general.php:167
+msgid "show / Hide Breacrumbs globally on sitewide"
+msgstr "Показать / Скрыть Breacrumbs глобально на стороне сайта"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/general.php:172
+msgid "Breadcrumb Delimiter"
+msgstr "Иерархическая разделитель"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/general.php:180
+msgid "This is the symbol that will appear in between your breadcrumbs"
+msgstr "Это символ, который появится в перерывах между сухарях"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/general.php:183
+msgid "Disable Browser Custom Scroll"
+msgstr "Отключить Browser Пользовательские прокрутки"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/general.php:191
+msgid "Check if you do not want disable the browser custom scrollbar."
+msgstr ""
+"Проверьте, если вы не хотите отключить браузера пользовательского прокрутки."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/general.php:195
+msgid "Disable Style Picker"
+msgstr "Отключить Стиль Picker"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/general.php:203
+msgid "Check if you do not want disable the style picker."
+msgstr "Проверьте, если вы не хотите отключить сборщик стиля."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/general.php:207
+msgid "Disable Import Dummy Content"
+msgstr "Отключить Импорт произвольного контента"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/general.php:215
+msgid "YES! to hide Import Dummy Data button from the Adminpanel."
+msgstr "ДА! скрыть кнопку Импорт фиктивные данные от админпанель."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/general.php:219
+msgid "Google Font Subset"
+msgstr "Google Font Subset"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/general.php:225
+msgid ""
+"Specify which subsets should be downloaded. Multiple subsets should be "
+"separated with comma."
+msgstr ""
+"Укажите, какие подмножества должны быть загружены. Несколько подмножества "
+"должны быть разделены запятой."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/general.php:231
+msgid ""
+"Some of the fonts in the Google Font Directory supports multiple scripts "
+"(like Latin and Cyrillic for example). In order to specify which subsets "
+"should be downloaded the subset parameter should be appended to the URL. For "
+"a complete list of available fonts and font subsets please see"
+msgstr ""
+"Некоторые из шрифтов в каталоге Google Font поддерживает несколько сценариев "
+"(как латиницы и кириллицы, например). Для того, чтобы указать, какие "
+"подмножества должны быть загружены параметр подмножество должны быть "
+"приложены к URL. Для получения полного списка доступных шрифтов и "
+"подмножеств см"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/general.php:237
+msgid "Mailchimp API KEY"
+msgstr "Mailchimp API KEY"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/general.php:243
+msgid "Paste your mailchimp api key that will be used by the mailchimp widget."
+msgstr ""
+"Введите ваш MailChimp ключ апи, который будет использоваться виджетом "
+"MailChimp."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/general.php:255
+msgid "Top Bar"
+msgstr "Топ-бар"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/general.php:257
+msgid "Disable Top Bar"
+msgstr "Отключить верхней панели"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/general.php:266
+msgid "YES! to disable header top bar. "
+msgstr "YES! to disable header top bar. "
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/general.php:270
+msgid "Top Left Content"
+msgstr "Вверху слева Содержимое"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/general.php:275
+msgid "Specify top bar left content in above fields."
+msgstr "Укажите верхний бар слева, содержание в вышеуказанных областях."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/general.php:281
+msgid "Newsletter Form List Name"
+msgstr "Имя бюллетень формуляр Список"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/general.php:288
+msgid "Choose List Name"
+msgstr "Выберите имя списка"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/general.php:297
+msgid "Set mailchimp api key before selecting the list."
+msgstr "Установите MailChimp ключ апи, прежде чем выбрать список."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/general.php:313
+msgid "Show Sociable"
+msgstr "Показать Общительный"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/general.php:322
+msgid "Add New Sociable"
+msgstr "Добавить Общительный"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/general.php:325
+msgid "Manage Social Network icons list to display"
+msgstr "Управление перечислить Социальные сети Иконки для отображения"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/general.php:344
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/general.php:370
+msgid "Sociable Icon"
+msgstr "Общительный Иконка"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/general.php:346
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/general.php:371
+msgid "Sociable Link"
+msgstr "Общительный Ссылка"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/integration.php:7
+msgid "Post"
+msgstr "Сообщение"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/integration.php:8
+msgid "Page"
+msgstr "Страница"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/integration.php:9
+msgid "Gallery"
+msgstr "Галерея"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/integration.php:16
+msgid "Add Code Inside the &lt;head&gt"
+msgstr "Добавить код Внутри  &lt;head&gt"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/integration.php:17
+msgid ""
+"Any code you place here will appear in the head section of every page of "
+"your site. This is useful when you need to add javascript or css to all "
+"pages."
+msgstr ""
+"Любой код вы размещаете здесь появится в головной части каждой страницы "
+"Вашего сайта. Это полезно, когда вам нужно добавить JavaScript или CSS для "
+"всех страниц."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/integration.php:20
+msgid "Enable Header Code"
+msgstr "Включить Заголовок код"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/integration.php:23
+msgid "Add Code above &lt;/body&gt;"
+msgstr "Добавить код выше &lt;/body&gt;"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/integration.php:24
+msgid ""
+"You can paste your Google Analytics or other website tracking codes in this "
+"box. This will be automatically added above the &lt;/body&gt; tag."
+msgstr ""
+"Вы можете вставить Google Analytics или других кодов отслеживания веб-сайт в "
+"этом поле. Это будут автоматически добавлены выше &lt;/body&gt; тег."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/integration.php:27
+msgid "Enable Body Code"
+msgstr "Включить Телосложение код"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/integration.php:30
+msgid "Custom CSS"
+msgstr "Пользовательские CSS"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/integration.php:31
+msgid "Paste your custom CSS code here."
+msgstr "Вставить пользовательский код CSS здесь."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/integration.php:34
+msgid "Enable Custom CSS"
+msgstr "Включить Custom CSS"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/integration.php:71
+msgid "Add code to the top of your posts"
+msgstr "Добавьте код в начало вашего сообщения"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/integration.php:72
+msgid ""
+"Place any codes to show on top of all single post. This is useful if you are "
+"looking to integrate things such as social bookmarking links, AD etc.,."
+msgstr ""
+"Поместите все коды, чтобы показать на вершине всего одно сообщение. Это "
+"полезно, если вы ищете, чтобы интегрировать такие вещи, как ссылки "
+"социальных закладок, AD и т.д..,."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/integration.php:75
+msgid "Enable single post top code"
+msgstr "Включить сообщение отдельно верхнюю код"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/integration.php:78
+msgid "Add code to the bottom of your posts, before the comments"
+msgstr "Добавьте код в нижней части ваших сообщений, прежде чем комментариях"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/integration.php:79
+msgid ""
+"Place any codes to show on bottom of all single post. This is useful if you "
+"are looking to integrate things such as social bookmarking links, AD etc.,."
+msgstr ""
+"Поместите все коды, чтобы показать на дне всех одной должности. Это полезно, "
+"если вы ищете, чтобы интегрировать такие вещи, как ссылки социальных "
+"закладок, AD и т.д..,."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/integration.php:82
+msgid "Enable single post bottom code"
+msgstr "Включить сообщение отдельно нижнюю код"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/integration.php:117
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/integration.php:279
+msgid "Social Shares"
+msgstr "Социальные акции"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/integration.php:121
+msgid "Manage social share options and its layout to show in the blog post."
+msgstr ""
+"Управление параметрами социальных акций и его макет, чтобы показать в блоге."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/integration.php:140
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/integration.php:303
+msgid "Username"
+msgstr "Имя пользователя"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/integration.php:161
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/integration.php:323
+msgid "Color Scheme"
+msgstr "Цветовая схема"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/integration.php:172
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/integration.php:334
+msgid "Language"
+msgstr "Язык"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/integration.php:183
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/integration.php:345
+msgid "Default Text"
+msgstr "текст по умолчанию"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/integration.php:202
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/integration.php:365
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/integration.php:394
+msgid "Social Bookmark"
+msgstr "Social Bookmark"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/integration.php:205
+msgid ""
+"Manage social media bookmark options and its layout to show in the blog post"
+msgstr ""
+"Управление социальных медиа варианты закладки и его макет, чтобы показать в "
+"блоге"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/integration.php:235
+msgid "Add code to the top of your pages"
+msgstr "Добавьте код в начало страниц"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/integration.php:236
+msgid ""
+"Place any codes to show on top of all single page. This is useful if you are "
+"looking to integrate things such as social bookmarking links, AD etc.,."
+msgstr ""
+"Поместите все коды, чтобы показать на вершине всего одну страницу. Это "
+"полезно, если вы ищете, чтобы интегрировать такие вещи, как ссылки "
+"социальных закладок, AD и т.д..,."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/integration.php:239
+msgid "Enable single page top code"
+msgstr "Включить одной странице верхний код"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/integration.php:242
+msgid "Add code to the bottom of your pages, before the comments"
+msgstr "Добавьте код в нижней части страниц, прежде чем комментариях"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/integration.php:243
+msgid ""
+"Place any codes to show on bottom of all single page. This is useful if you "
+"are looking to integrate things such as social bookmarking links, AD etc.,."
+msgstr ""
+"Поместите все коды, чтобы показать на дне всех одной странице. Это полезно, "
+"если вы ищете, чтобы интегрировать такие вещи, как ссылки социальных "
+"закладок, AD и т.д..,."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/integration.php:246
+msgid "Enable single page bottom code"
+msgstr "Включить одной странице нижнюю код"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/integration.php:284
+msgid "Manage social share options and its layout to show in the page."
+msgstr ""
+"Управление параметрами социальных акций и его макет, чтобы показать на "
+"странице."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/integration.php:367
+msgid ""
+"Manage social media bookmark options and its layout to show in the page."
+msgstr ""
+"Управление социальных медиа варианты закладки и его макет, чтобы показать на "
+"странице."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/integration.php:397
+msgid ""
+"Manage social media bookmark options and its layout to show in the gallery."
+msgstr ""
+"Управление социальных медиа варианты закладки и его макет, чтобы показать в "
+"галерее."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/menu.php:12
+msgid "settings"
+msgstr "настройки"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/menu.php:15
+msgid "options"
+msgstr "Варианты"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/menu.php:15
+msgid "Options"
+msgstr "Опции"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/pagebuilder.php:7
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/pagebuilder.php:16
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/settings.php:46
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/settings.php:63
+msgid "Page Builder"
+msgstr "создатель страницы"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/pagebuilder.php:27
+msgid "Choose any of these post types to activate page builder"
+msgstr "Выберите любой из этих типов почтовых активировать страницу строителя"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/pagebuilder.php:59
+msgid "Keep page builder active in above selected post types"
+msgstr "Держите Page Builder активность в указанных отдельных видов почтовых"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/pagebuilder.php:73
+msgid ""
+"Please activate \"DesignThemes Core Features Plugin\" to get the Page "
+"Builder options."
+msgstr ""
+"Пожалуйста, включите \"DesignThemes Основные характеристики Plugin\", чтобы "
+"получить параметры Page Builder."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/responsive.php:6
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/responsive.php:13
+msgid "Responsive"
+msgstr "Отзывчивый"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/responsive.php:18
+msgid "Make My Site Responsive"
+msgstr "Сделать Отзывчивый Мой сайт"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/responsive.php:23
+msgid "Choose whether you need responsive version for your website"
+msgstr "Выберите, нужно ли вам отзывчивый версию для вашего сайта"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/responsive.php:29
+msgid "Disable Slider for Mobile Devices"
+msgstr "Отключить Slider для мобильных устройств"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/responsive.php:34
+msgid ""
+"Choose whether you wish to hide / display the slider area of your website on "
+"mobile devices"
+msgstr ""
+"Выберите, хотите ли вы, чтобы скрыть / отобразить область слайдера вашего "
+"сайта на мобильных устройствах"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/sensei.php:6
+msgid "Sensei Settings"
+msgstr "Настройки Sensei"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/sensei.php:16
+msgid "Course Detail"
+msgstr "Деталь курс"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/sensei.php:20
+msgid "Choose the Course page layout"
+msgstr "Выберите макет страницы для гольфа"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/sensei.php:38
+msgid "Lesson Detail"
+msgstr "Урок Подробно"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/sensei.php:42
+msgid "Choose the Lesson page layout"
+msgstr "Выберите макет Урок страницу"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/sensei.php:60
+msgid "Quiz Detail"
+msgstr "Викторина Подробно"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/sensei.php:64
+msgid "Choose the Quiz page layout"
+msgstr "Выберите макет Викторина страницу"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/sensei.php:82
+msgid "Course Category"
+msgstr "курс Категория"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/sensei.php:86
+msgid "Choose the Course category page layout Style"
+msgstr "Выберите категорию курс Макет страницы Стиль"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/sensei.php:105
+msgid ""
+"You have to install and activate the Sensei plugin to use this module .."
+msgstr ""
+"Вы должны установить и активировать плагин Sensei использовать этот модуль .."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/seo.php:7
+msgid "Meta"
+msgstr "Мета"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/seo.php:14
+msgid "Title Formats"
+msgstr "Название форматы"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/seo.php:19
+msgid "Title Delimiter"
+msgstr "Название разделитель"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/seo.php:27
+msgid ""
+"This is the symbol that will appear on the browser and Search engine title. "
+"Some common examples would be : | /  - , ::"
+msgstr ""
+"Это символ, который появится в браузере и поиск название двигателя. "
+"Некоторые общие примеры бы:| /  - , ::"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/seo.php:35
+msgid "Post Title Format"
+msgstr "Сообщение Название Формат"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/seo.php:38
+msgid "Choose Post Title Format"
+msgstr "Выберите Сообщение Заголовок формат"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/seo.php:39
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/seo.php:51
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/seo.php:62
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/seo.php:70
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/seo.php:79
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/seo.php:88
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/seo.php:97
+msgid "Blog Title"
+msgstr "Название блога"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/seo.php:39
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/seo.php:51
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/seo.php:62
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/seo.php:71
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/seo.php:80
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/seo.php:89
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/seo.php:97
+msgid "Blog Description"
+msgstr "Блог Описание"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/seo.php:40
+msgid "Post Title"
+msgstr "Сообщение Заголовок"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/seo.php:40
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/seo.php:63
+msgid "Category Title"
+msgstr "Категория Название"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/seo.php:41
+msgid "Tag Title"
+msgstr "тег Title"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/seo.php:42
+msgid "Post's Author Nicename"
+msgstr "Пост Автор Nicename"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/seo.php:43
+msgid "Post's Author First Name"
+msgstr "Автор Имя Пост"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/seo.php:44
+msgid "Post's Author Last Name"
+msgstr "Пост Автор Фамилия"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/seo.php:47
+msgid "Page Title Format"
+msgstr "Название страницы Формат"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/seo.php:50
+msgid "Choose Page Title Format"
+msgstr "Выберите титульном листе формата"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/seo.php:52
+msgid "Page Title"
+msgstr "Название страницы"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/seo.php:53
+msgid "Page's Author Nicename"
+msgstr "Пейджа Автор Nicename"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/seo.php:54
+msgid "Page's Author First Name"
+msgstr "Пейджа Автор Имя"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/seo.php:55
+msgid "Page's Author Last Name"
+msgstr "Автор Пейджа Фамилия"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/seo.php:58
+msgid "Category Title Format"
+msgstr "Категория Название Формат"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/seo.php:61
+msgid "Choose Category Page Title Format"
+msgstr "Выберите категорию титульном листе формата"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/seo.php:63
+msgid "Category Description"
+msgstr "Категория Описание"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/seo.php:66
+msgid "Archive Title Format"
+msgstr "Архив Название Формат"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/seo.php:69
+msgid "Choose Archieve Page Title Format"
+msgstr "Выберите Archieve титульном листе формата"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/seo.php:72
+msgid "Default Date"
+msgstr "По умолчанию Дата"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/seo.php:75
+msgid "Tag Title Format"
+msgstr "Тег Название Формат"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/seo.php:78
+msgid "Choose Tag Page Title Format"
+msgstr "Выберите Tag Page Title Format"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/seo.php:81
+msgid "The name of the tag"
+msgstr "Название тега"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/seo.php:84
+msgid "Search Title Format"
+msgstr "Поиск Название Формат"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/seo.php:87
+msgid "Choose Search Page Title Format"
+msgstr "Выберите Поиск титульном листе формата"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/seo.php:90
+msgid "What was searched for"
+msgstr "То, что было искали"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/seo.php:93
+msgid "404 Title Format"
+msgstr "404  Название Формат"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/seo.php:96
+msgid "Choose 404 Page Title Format"
+msgstr "Выберите 404 титульном листе формата"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/seo.php:142
+msgid "Metadata and others"
+msgstr "Метаданных и другие"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/seo.php:145
+msgid "Canonical URLs"
+msgstr "Канонические URL-адреса"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/seo.php:145
+msgid ""
+"This option will automatically generate Canonical URLS for your entire "
+"WordPress installation. This will help to prevent duplicate content "
+"penalties by Google."
+msgstr ""
+"Эта опция будет автоматически генерировать Канонические URL-адресов для всей "
+"вашей установки WordPress. Это поможет предотвратить дублирование штрафы "
+"контента на Google."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/seo.php:146
+msgid "Use noindex for Categories"
+msgstr "Используйте NOINDEX для Категории"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/seo.php:146
+msgid ""
+"Check this for excluding category pages from being crawled. Useful for "
+"avoiding duplicate content."
+msgstr ""
+"Отметьте это чтобы запретить категории поисковым роботам индексацию страниц. "
+"Полезно чтобы избежать дублирования контента."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/seo.php:147
+msgid "Use noindex for Archives"
+msgstr "Используйте NOINDEX для архивов"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/seo.php:147
+msgid ""
+"Check this for excluding archive pages from being crawled. Useful for "
+"avoiding duplicate content."
+msgstr ""
+"Отметьте это чтобы запретить архивные поисковым роботам индексацию страниц. "
+"Полезно чтобы избежать дублирования контента."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/seo.php:148
+msgid "Use noindex for Tag Archives"
+msgstr "Используйте NOINDEX для Архивы"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/seo.php:148
+msgid ""
+"Check this for excluding tag pages from being crawled. Useful for avoiding "
+"duplicate content."
+msgstr ""
+"Отметьте это чтобы запретить страницы тегов из обхода. Полезно чтобы "
+"избежать дублирования контента."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/seo.php:149
+msgid "Use Tags for META keywords"
+msgstr "Используйте теги для META ключевые слова"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/seo.php:149
+msgid ""
+"Check this if you want your tags for a given post used as the META keywords "
+"(in addition to any keywords you specify on the post edit page)."
+msgstr ""
+"Проверьте это, если вы хотите, чтобы ваши теги для данной должности, "
+"используемого в качестве мета ключевых слов (в дополнение к любым ключевым "
+"словам вы укажете на странице редактирования сообщению)."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/seo.php:151
+msgid "Autogenerate Descriptions"
+msgstr "AutoGenerate Описания"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/seo.php:151
+msgid ""
+"Check this and your META descriptions will get autogenerated for post and "
+"page."
+msgstr ""
+"Проверьте это и ваши META описания будут генерироваться автоматически на "
+"пост и страницы."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/seo.php:153
+msgid "Use Categories for META keywords"
+msgstr "Используйте рубрики для"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/seo.php:153
+msgid ""
+"Check this if you want your categories for a given post used as the META "
+"keywords (in addition to any keywords and tags you specify on the post edit "
+"page)."
+msgstr ""
+"Проверьте это, если вы хотите, чтобы ваши категории для данной должности, "
+"используемого в качестве мета ключевых слов (в дополнение к любым ключевым "
+"словам и тегам вы укажете на странице редактирования сообщению)."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/settings.php:38
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/settings.php:56
+msgid "Appearance"
+msgstr "Внешний вид"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/settings.php:39
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/settings.php:57
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/skins.php:6
+msgid "Skins"
+msgstr "Скины"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/settings.php:40
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/settings.php:58
+msgid "Integration"
+msgstr "Интеграция"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/settings.php:41
+msgid "SEO"
+msgstr "SEO"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/settings.php:42
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/settings.php:59
+msgid "Speciality Pages"
+msgstr "Специализированные Страницы"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/settings.php:44
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/settings.php:61
+msgid "Widget Area"
+msgstr "Виджет Площадь"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/settings.php:45
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/settings.php:62
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/settings.php:47
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/settings.php:64
+msgid "Sensei"
+msgstr "Сенсей"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/settings.php:49
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/settings.php:66
+msgid "Responsive &amp; Mobile"
+msgstr "Отзывчивый &amp; Мобильный"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/settings.php:50
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/settings.php:67
+msgid "Branding"
+msgstr "Брендинг"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/settings.php:86
+msgid "Import Dummy Data"
+msgstr "Импорт фиктивные данные"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/settings.php:109
+msgid "Reset All"
+msgstr "Сбросить все"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/skins.php:16
+msgid "Current Skin"
+msgstr "Текущий кожи"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/skins.php:28
+msgid "Available Skins"
+msgstr "Доступные оболочки"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/specialty-pages.php:7
+msgid "Archives"
+msgstr "Архивы"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/specialty-pages.php:9
+msgid "404"
+msgstr "404"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/specialty-pages.php:17
+msgid "Archives Layout"
+msgstr "Архивы Макет"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/specialty-pages.php:18
+msgid ""
+"You can choose between a left, right or no sidebar layout for the Archive "
+"page."
+msgstr ""
+"Вы можете выбрать между левой, правой или не макет боковой панели для "
+"страницы Архив."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/specialty-pages.php:21
+msgid "Your archive results will use the layout you select below."
+msgstr "Ваши результаты архив будет использовать макет вы выбираете ниже."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/specialty-pages.php:24
+msgid "Archives Background"
+msgstr "Архивы Фон"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/specialty-pages.php:25
+msgid "Archives background image"
+msgstr "Фон Архивы изображение"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/specialty-pages.php:26
+msgid "Upload an image for the theme's Archives page background"
+msgstr "Загрузите изображение для страницы Архивы фоном темы"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/specialty-pages.php:29
+msgid "Archives Background Color"
+msgstr "Цвет Архивы Фон"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/specialty-pages.php:30
+msgid ""
+"Pick a custom color for background color of the theme's archive page.(e.g. "
+"#a314a3)"
+msgstr ""
+"Выберите пользовательский цвет для цвета фона странице архива тема в (e.g. "
+"#a314a3)"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/specialty-pages.php:33
+msgid "Search Layout"
+msgstr "Поиск Макет"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/specialty-pages.php:34
+msgid ""
+"You can choose between a left, right or no sidebar layout for your Search "
+"page."
+msgstr ""
+"Вы можете выбрать между левой, правой или не макет боковой панели на "
+"странице Вашей Поиск."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/specialty-pages.php:37
+msgid "Your Search results will use the layout you select below."
+msgstr "Ваши результаты поиска будут использовать макет вы выбираете ниже."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/specialty-pages.php:39
+msgid "Search Background"
+msgstr "Поиск фона"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/specialty-pages.php:40
+msgid "Search background image"
+msgstr "Поиск фоновое изображение"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/specialty-pages.php:41
+msgid "Upload an image for the theme's Search page background"
+msgstr "Загрузите изображение для поиска страницы фоном темы"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/specialty-pages.php:44
+msgid "Search Background Color"
+msgstr "Цвет Поиск фона"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/specialty-pages.php:45
+msgid ""
+"Pick a custom color for background color of the theme's search page.(e.g. "
+"#a314a3)"
+msgstr ""
+"Выберите пользовательский цвет для цвета фона страницы поиска теме в.(e.g. "
+"#a314a3)"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/specialty-pages.php:49
+msgid "404 Layout"
+msgstr "404 Макет"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/specialty-pages.php:50
+msgid ""
+"You can choose between a left, right or no sidebar layout for your 404 page."
+msgstr ""
+"Вы можете выбрать между левой, правой или не макет боковой панели для вашего "
+"404 страница."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/specialty-pages.php:52
+msgid "404 Background"
+msgstr "404 Фон"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/specialty-pages.php:53
+msgid "404 background image"
+msgstr "404 Фоновое изображение"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/specialty-pages.php:54
+msgid "Upload an image for the theme's 404 page background"
+msgstr "Загрузите изображение для тема сайт 404 фон страницы"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/specialty-pages.php:57
+msgid "404 Background Color"
+msgstr "404 Цвет фона"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/specialty-pages.php:58
+msgid ""
+"Pick a custom color for background color of the theme's 404 page.(e.g. "
+"#a314a3)"
+msgstr ""
+"Выберите пользовательский цвет для цвета фона тему в 404 страница (e.g. "
+"#a314a3)"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/specialty-pages.php:60
+msgid "404 Message"
+msgstr "404 Сообщение"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/specialty-pages.php:61
+msgid "You can give custom 404 page message"
+msgstr "Вы можете дать обычай 404 страница сообщение"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/specialty-pages.php:93
+msgid "Three post per row."
+msgstr "Три сообщение на строку."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/specialty-pages.php:109
+msgid "Gallery archives & Related gallery Post design"
+msgstr "Галерея архивы и связанной галерея Сообщение дизайн"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/specialty-pages.php:111
+msgid ""
+"Your archives & related gallery posts will use the shape you select below."
+msgstr ""
+"Ваши архивы и соответствующих должностей галерея будет использовать форму Вы "
+"выбираете ниже."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/specialty-pages.php:137
+msgid "404 Custom Message"
+msgstr "404  Пользовательские сообщение"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/specialty-pages.php:143
+msgid "Disable Font Settings"
+msgstr "Отключить настройки шрифта"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/specialty-pages.php:147
+msgid "Enable / Disable 404 Font settings"
+msgstr "Включить / Выключить  404 параметры шрифтов"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/specialty-pages.php:153
+msgid "Message Font"
+msgstr "Сообщение шрифта"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/specialty-pages.php:160
+msgid "Message Font Color"
+msgstr "Сообщение Цвет шрифта"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/specialty-pages.php:163
+msgid ""
+"Pick a custom color for 404 message font color of the theme e.g. #a314a3"
+msgstr ""
+"Выберите пользовательский цвет для 404 сообщений цвет шрифта тематического "
+"например #a314a3"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/specialty-pages.php:169
+msgid "Message Font Size"
+msgstr "Сообщение Размер шрифта"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/widgetarea.php:6
+msgid "Pages"
+msgstr "Страницы"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/widgetarea.php:7
+msgid "Posts"
+msgstr "Сообщений"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/widgetarea.php:8
+msgid "Categories"
+msgstr "Категории"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/widgetarea.php:11
+msgid "Products Category"
+msgstr "Продукты Категория"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/widgetarea.php:12
+msgid "Products Tag"
+msgstr "Продукты тегов"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/widgetarea.php:21
+msgid "Add new widget areas for pages"
+msgstr "Добавить новые области Виджет для страниц"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/widgetarea.php:25
+msgid "Select a PAGE that should receive a new widget area:"
+msgstr "Выберите страницу, которая должна получить новый виджет-зону:"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/widgetarea.php:50
+msgid "Add new widget areas for posts"
+msgstr "Добавить новые области Виджет для сообщений"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/widgetarea.php:54
+msgid "Select a POST that should receive a new widget area:"
+msgstr "Выберите POST, который должен принять новую область виджета:"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/widgetarea.php:78
+msgid "Add new widget areas for categories"
+msgstr "Добавить новые области Виджет для категорий"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/widgetarea.php:82
+msgid "Select a CATEGORY that should receive a new widget area:"
+msgstr "Выберите категорию, который должен принять новую область виджета:"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/widgetarea.php:107
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/widgetarea.php:135
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/widgetarea.php:163
+msgid "Add new widget area for product"
+msgstr "Добавить виджет-зону для продукта"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/widgetarea.php:111
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/widgetarea.php:167
+msgid "Select a PRODUCT that should receive a new widget area:"
+msgstr "Выберите продукт, который должен принять новую область виджета:"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/widgetarea.php:139
+msgid "Select a product's category that should receive a new widget area:"
+msgstr ""
+"Выберите категорию продукта, который должен принять новую область виджета:"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/woocommerce.php:6
+msgid "wooCommerce Settings"
+msgstr "Настройки WooCommerce"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/woocommerce.php:16
+msgid "Shop"
+msgstr "Магазин"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/woocommerce.php:19
+msgid "Products Per Page"
+msgstr "Товаров на сайте"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/woocommerce.php:22
+msgid "Number of porducts to show in catalog / shop page"
+msgstr "Количество Porducts показать в каталоге / Салон странице"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/woocommerce.php:27
+msgid "Choose the Product Layout Style in Catalog / Shop "
+msgstr "Выберите стиль разметки товаров в каталоге / Shop"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/woocommerce.php:31
+msgid "Two products per row."
+msgstr "Два продукта в ряду."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/woocommerce.php:31
+msgid "Three products per row."
+msgstr "Три продукта в ряду."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/woocommerce.php:31
+msgid "Four products per row."
+msgstr "Четыре продукта в ряду."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/woocommerce.php:45
+msgid "Product Detail"
+msgstr "Подробности по продукту"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/woocommerce.php:49
+msgid "Choose the Product Page Layout"
+msgstr "Выберите Макет страницы продукта"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/woocommerce.php:67
+msgid "Product Category"
+msgstr "Категория продукта"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/woocommerce.php:71
+msgid "Choose the Product category page layout Style"
+msgstr "Выберите категорию продукта Макет страницы Стиль"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/woocommerce.php:90
+msgid "Product Tag"
+msgstr "Продукт тегов"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/woocommerce.php:94
+msgid "Choose the Product tag page layout Style"
+msgstr "Выберите Продукт тегов Макет страницы Стиль"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_options/woocommerce.php:113
+msgid ""
+"You have to install and activate the wooCommerce plugin to use this module .."
+msgstr ""
+"Вы должны установить и активировать плагин WooCommerce чтобы использовать "
+"этот модуль .."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_widgets/flickr.php:6
+msgid " Flickr Widget"
+msgstr "Flickr Виджет"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_widgets/flickr.php:19
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_widgets/gallery_widget.php:23
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_widgets/mailchimp.php:27
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_widgets/recent_pages.php:21
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_widgets/recent_posts.php:23
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_widgets/twitter.php:29
+msgid "Title:"
+msgstr "Название:"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_widgets/flickr.php:23
+msgid "Flickr ID:"
+msgstr "Flickr ID:"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_widgets/flickr.php:27
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_widgets/twitter.php:53
+msgid "How many entries do you want to show:"
+msgstr "Сколько записей вы хотите, чтобы показать:"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_widgets/flickr.php:35
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_widgets/flickr.php:45
+msgid "What pictures to display"
+msgstr "Какие фотографии для отображения"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_widgets/flickr.php:37
+msgid "Latest"
+msgstr "Последнее"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_widgets/flickr.php:37
+msgid "Random"
+msgstr "Случайная"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_widgets/flickr.php:47
+msgid "square"
+msgstr "Квадратный"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_widgets/flickr.php:47
+msgid "thumbnail"
+msgstr "с миниатюрами"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_widgets/flickr.php:47
+msgid "medium"
+msgstr "средний"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_widgets/gallery_widget.php:10
+msgid " Gallery"
+msgstr "Галерея"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_widgets/gallery_widget.php:28
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_widgets/recent_posts.php:28
+msgid "Choose the categories you want to display (multiple selection possible)"
+msgstr ""
+"Выберите категории, которые вы хотите отобразить (можно выбрать несколько)"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_widgets/gallery_widget.php:41
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_widgets/recent_pages.php:39
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_widgets/recent_posts.php:41
+msgid "Display title only or title &amp; excerpt"
+msgstr "Название Показать только или название   &amp; выдержка"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_widgets/gallery_widget.php:51
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_widgets/recent_pages.php:49
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_widgets/recent_posts.php:51
+msgid "Show Image"
+msgstr "Показать изображение"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_widgets/gallery_widget.php:53
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_widgets/recent_posts.php:53
+msgid "No.of posts to show:"
+msgstr "Кол сообщений, чтобы показать:"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_widgets/gallery_widget.php:116
+msgid "No Gallery Entries found"
+msgstr "Нет Галерея Записи"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_widgets/mailchimp.php:11
+msgid " Mailchimp Newsletter Widget"
+msgstr "Mailchimp новости Виджет"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_widgets/mailchimp.php:31
+msgid "Select List:"
+msgstr "Выберите Список:"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_widgets/mailchimp.php:41
+msgid "Paste your mailchimp api key in BPanel at General Settings tab"
+msgstr "Введите ваш MailChimp ключ АФИ в BPanel в закладке Общие настройки"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_widgets/recent_pages.php:10
+msgid " Pages"
+msgstr "Страницы"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_widgets/recent_pages.php:26
+msgid "Choose the pages you want to display (multiple selection possible)"
+msgstr ""
+"Выберите страницы, которые вы хотите отобразить (множественный выбор можно)"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_widgets/recent_pages.php:105
+msgid "No Pages found"
+msgstr "Не найдено ни Страницы"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_widgets/recent_posts.php:10
+msgid " Posts"
+msgstr "Сообщений"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_widgets/recent_posts.php:109
+msgid "No Posts found"
+msgstr "Сообщения не найдены"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_widgets/social_widget.php:6
+msgid " Social Widget"
+msgstr "Социальная Виджет"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_widgets/social_widget.php:6
+msgid "Social Profile Widget."
+msgstr "Социальная виджет профиля."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_widgets/social_widget.php:28
+msgid "Please add social icons in general settings."
+msgstr "Пожалуйста, добавьте социальные иконки в общих настройках."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_widgets/social_widget.php:32
+msgid "Please enable social icons in general settings."
+msgstr "Пожалуйста, включите социальные иконки в общих настройках."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_widgets/twitter.php:10
+msgid " Twitter Widget"
+msgstr "Twitter Widget"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_widgets/twitter.php:15
+msgid "Latest Tweets"
+msgstr "Последние Tweets"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_widgets/twitter.php:33
+msgid "Consumer Key:"
+msgstr "Потребительский ключ:"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_widgets/twitter.php:37
+msgid "Consumer Secret:"
+msgstr "Потребительский Secret:"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_widgets/twitter.php:41
+msgid "Access Token:"
+msgstr "Маркер доступа:"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_widgets/twitter.php:45
+msgid "Access Token Secret:"
+msgstr "Маркер доступа Secret:"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_widgets/twitter.php:49
+msgid "Enter your twitter username:"
+msgstr "Введите ваш щебет имя пользователя:"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_widgets/twitter.php:62
+msgid "Exclude @replies"
+msgstr "Исключить @ ответы"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_widgets/twitter.php:65
+msgid "Show time of tweet"
+msgstr "Показать время твит"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_widgets/twitter.php:68
+msgid "Show user avatar"
+msgstr "Показать пользователь Аватара"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/theme_widgets/twitter.php:145
+msgid "No public Tweets found"
+msgstr "Не найдено ни общественные Твиты"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/woocommerce/index.php:276
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/woocommerce/index.php:434
+msgid "Sale!"
+msgstr "Распродажа!"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/woocommerce/index.php:279
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/woocommerce/index.php:437
+msgid "Out of Stock"
+msgstr "Нет в наличии"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/wordpress-importer/parsers.php:42
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/wordpress-importer/parsers.php:63
+msgid "There was an error when reading this WXR file"
+msgstr "Был ошибка при чтении этого файла WXR"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/wordpress-importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+"Подробности приведены выше. Импортер сейчас попробую еще раз с другим "
+"анализатором ..."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/wordpress-importer/parsers.php:67
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/wordpress-importer/parsers.php:72
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/wordpress-importer/parsers.php:262
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/wordpress-importer/parsers.php:451
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+"Это, кажется, не быть WXR файл, отсутствует / недействительным WXR номер "
+"версии"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/wordpress-importer/wordpress-importer.php:134
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/wordpress-importer/wordpress-importer.php:143
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/wordpress-importer/wordpress-importer.php:194
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/wordpress-importer/wordpress-importer.php:198
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/wordpress-importer/wordpress-importer.php:207
+msgid "Sorry, there has been an error."
+msgstr "К сожалению, произошла ошибка."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/wordpress-importer/wordpress-importer.php:135
+msgid "The file does not exist, please try again."
+msgstr "Файл не существует, попробуйте еще раз."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/wordpress-importer/wordpress-importer.php:178
+msgid "All done."
+msgstr "Все сделано."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/wordpress-importer/wordpress-importer.php:178
+msgid "Have fun!"
+msgstr "Удачи!"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/wordpress-importer/wordpress-importer.php:179
+msgid "Remember to update the passwords and roles of imported users."
+msgstr "Не забывайте обновлять пароли и роли импортируемых пользователей."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/wordpress-importer/wordpress-importer.php:199
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+"Файл экспорта не может быть найден в <code>%s</code>.Вполне вероятно, что "
+"это было вызвано проблемой разрешений."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/wordpress-importer/wordpress-importer.php:215
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+"Это WXR файл  (версия %s)  не может поддерживаться этой версии импортера. "
+"Пожалуйста, рассмотреть вопрос об обновлении."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/wordpress-importer/wordpress-importer.php:240
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+"Не удалось импортировать автора  %s.Их сообщения будут отнесены к текущему "
+"пользователю."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/wordpress-importer/wordpress-importer.php:266
+msgid "Assign Authors"
+msgstr "Связать Авторы"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/wordpress-importer/wordpress-importer.php:267
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+"Чтобы сделать его проще для вас, для редактирования и сохранения "
+"импортированных содержание, вы можете переназначить автору импортируемого "
+"элемента существующего пользователя этого сайта. Например, вы можете "
+"импортировать все записи, как <code>admin</code>s записи"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/wordpress-importer/wordpress-importer.php:269
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+"Если новый пользователь создается WordPress, новый пароль будет случайным "
+"образом и новый пользователь&#8217;s  Роль будет установлен в качестве  %s."
+"Изменение вручную нового пользователя &#8217;s подробная информация будет "
+"необходимо."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/wordpress-importer/wordpress-importer.php:279
+msgid "Import Attachments"
+msgstr "Импорт Вложения"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/wordpress-importer/wordpress-importer.php:282
+msgid "Download and import file attachments"
+msgstr "Скачать и импорт вложенных файлов"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/wordpress-importer/wordpress-importer.php:299
+msgid "Import author:"
+msgstr "Импорт автор:"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/wordpress-importer/wordpress-importer.php:310
+msgid "or create new user with login name:"
+msgstr "или зарегистрироваться нового пользователя с логина:"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/wordpress-importer/wordpress-importer.php:313
+msgid "as a new user:"
+msgstr "в качестве нового пользователя:"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/wordpress-importer/wordpress-importer.php:321
+msgid "assign posts to an existing user:"
+msgstr "назначить на сообщения существующего пользователя:"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/wordpress-importer/wordpress-importer.php:323
+msgid "or assign posts to an existing user:"
+msgstr "или назначить на сообщения существующего пользователя:"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/wordpress-importer/wordpress-importer.php:324
+msgid "- Select -"
+msgstr "- Выберите -"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/wordpress-importer/wordpress-importer.php:374
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+"Не удалось создать нового пользователя для  %s.Их сообщения будут отнесены к "
+"текущему пользователю."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/wordpress-importer/wordpress-importer.php:423
+#, php-format
+msgid "Failed to import category %s"
+msgstr "Не удалось импортировать категорию %s"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/wordpress-importer/wordpress-importer.php:461
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr "Не удалось импортировать сообщению тег %s"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/wordpress-importer/wordpress-importer.php:505
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/wordpress-importer/wordpress-importer.php:631
+#, php-format
+msgid "Failed to import %s %s"
+msgstr "Не удалось импортировать %s %s"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/wordpress-importer/wordpress-importer.php:527
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr "Не удалось импортировать &#8220;%s&#8221;: Неверный тип сообщение %s"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/wordpress-importer/wordpress-importer.php:548
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr "%s &#8220;%s&#8221;уже существует."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/wordpress-importer/wordpress-importer.php:603
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr "Не удалось импортировать %s &#8220;%s&#8221;"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/wordpress-importer/wordpress-importer.php:749
+msgid "Menu item skipped due to missing menu slug"
+msgstr "Пункт меню пропускается вследствие обрыва меню пули"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/wordpress-importer/wordpress-importer.php:756
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr "Пункт меню пропускается вследствие неверного пули меню:%s"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/wordpress-importer/wordpress-importer.php:819
+msgid "Fetching attachments is not enabled"
+msgstr "Извлечение вложения не включен"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/wordpress-importer/wordpress-importer.php:832
+msgid "Invalid file type"
+msgstr "Неверный тип файла"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/wordpress-importer/wordpress-importer.php:876
+msgid "Remote server did not respond"
+msgstr "Удаленный сервер не ответил"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/wordpress-importer/wordpress-importer.php:882
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr "Сервер вернул ответ удаленного ошибке %1$d %2$s"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/wordpress-importer/wordpress-importer.php:889
+msgid "Remote file is incorrect size"
+msgstr "Удаленный файл неправильный размер"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/wordpress-importer/wordpress-importer.php:894
+msgid "Zero size file downloaded"
+msgstr "Нулевой размер файла, загруженного"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/wordpress-importer/wordpress-importer.php:900
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr "Удаленный файл слишком большой, предел  %s"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/wordpress-importer/wordpress-importer.php:999
+msgid "Import WordPress"
+msgstr "Импорт WordPress"
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/wordpress-importer/wordpress-importer.php:1006
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+"Новая версия этого импортера доступно. Пожалуйста, обновите до версии %s для "
+"обеспечения совместимости с новыми файлами экспорта."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/wordpress-importer/wordpress-importer.php:1021
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+"Привет! Загрузить WordPress расширенный RSS файл (WXR) и мы импортируем "
+"сообщений, страниц, комментарии, пользовательские поля, категории и теги в "
+"этом месте."
+
+#: E:\wamp\www\dt-guru\wp-content\themes\guru/framework/wordpress-importer/wordpress-importer.php:1022
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+"Выберите WXR (.xml) файл для загрузки, затем нажмите Загрузить файл и импорт."
